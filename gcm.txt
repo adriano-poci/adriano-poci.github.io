@@ -1,1 +1,1 @@
-* Resized `poci.png`
+* Updated `index.md` research blurb

@@ -5,7 +5,7 @@ description: I am a PhD student at Maquarie University, in Sydney, Australia. I 
 keywords: galaxy, dynamics, spectroscopy, stellar populations
 ---
 
-Blue Ham is a PhD candidate at Broom University. His research interests include analyzing the effectiveness of treat-based incentives such as recycling and getting the mail, as well as designing new methods to protect humans from the adverse effects of rolling trash receptacles.
+I am a PhD student at Maquarie University in Sydney, Australia. I am currently completing my studies at the European Southern Observatory (ESO) headquarters in Garching, Germany. My research interests are centred around galaxy formation, and in particular the interplay between all observable properties of the stars; namely their motions, compositions, and ages.
 
 [curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>
 
