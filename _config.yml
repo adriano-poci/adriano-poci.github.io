@@ -8,11 +8,12 @@ highlighter: rouge
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : Adriano Poci
+title : "Adriano Poci"
 author :
-  name : Adriano Poci
-  email : adriano.poci@students.mq.edu.au
-  github : adriano-poci
+  name : "Adriano Poci"
+  email : "adriano.poci@students.mq.edu.au"
+  github : "adriano-poci"
+  twitter : "apoci"
 
 production_url : http://adriano-poci.github.io
 
