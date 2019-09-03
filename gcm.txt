@@ -1,1 +1,1 @@
-* Corrected NASA link
+* Ignore .gitignore
