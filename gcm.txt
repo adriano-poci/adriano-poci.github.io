@@ -1,1 +1,1 @@
-* Ignore .gitignore
+* Corrected `index.md` link to `poci.png`

@@ -23,8 +23,8 @@ Blue Ham is a PhD candidate at Broom University. His research interests include 
         </div>
 
         <div class="span2">
-        <a href="../assets/poci.jpg">
-            <img src="../assets/poci.jpg"
+        <a href="../assets/poci.png">
+            <img src="../assets/poci.png"
                   title="Adriano Poci" alt="Adriano Poci"/></a>
         </div>
     </div>
