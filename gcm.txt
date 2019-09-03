@@ -1,4 +1,1 @@
-* Updated headshot
-* Updated intro text
-* Updated links
-* Included CV
+* Corrected NASA link
