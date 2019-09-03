@@ -9,11 +9,10 @@ highlighter: rouge
 # so be sure to set them if your theme uses them.
 #
 title : Adriano Poci
-author : Adriano Poci
+author :
   name : Adriano Poci
   email : adriano.poci@students.mq.edu.au
   github : adriano-poci
-  twitter: None
 
 production_url : http://adriano-poci.github.io
 
