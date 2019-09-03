@@ -1,3 +1,1 @@
-* Updated `index.md` research blurb
-* Wiped `research.md`
-* Refined `deafult.html` for header bar
+* Re-resized `poci.png`
