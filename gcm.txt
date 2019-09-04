@@ -1,1 +1,1 @@
-* Adjusted image positioning
+* Corrected HTML formatting

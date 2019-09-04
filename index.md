@@ -55,7 +55,7 @@ Specifically, I have been developing and analysing dynamical models of external,
         </div>
     
         <div class="span6">
-            The "mass formation history" for the nearby lenticular galaxy NGC 3115. The figure shows in the radial profiles of the vertical component of the intrinsic stellar veloicty dispserion, <MATH>&sigma;<sub>z</sub></MATH>, in boxes organised by the stellar age <MATH>t</MATH> (horizontally), and stellar metallicity <MATH>[Z/H]</MATH> (vertically). The mass formation history illustrates <em>where</em> and <em>when</em> the mass in the present-day galaxy formed. It is both a star-formation history, in that it can determine how much stars formed <i>in situ</i>, and also an accretion history, in that it can determine which stars formedd <i>ex situ</> and where they are now. Taken from 
+            The "mass formation history" for the nearby lenticular galaxy NGC 3115. The figure shows in the radial profiles of the vertical component of the intrinsic stellar veloicty dispserion, <MATH>&sigma;<sub>z</sub></MATH>, in boxes organised by the stellar age <MATH>t</MATH> (horizontally), and stellar metallicity <MATH>[Z/H]</MATH> (vertically). The mass formation history illustrates <em>where</em> and <em>when</em> the mass in the present-day galaxy formed. It is both a star-formation history, in that it can determine how much stars formed <i>in situ</i>, and also an accretion history, in that it can determine which stars formedd <i>ex situ</i> and where they are now. Taken from 
 <a href="https://ui.adsabs.harvard.edu/abs/2019MNRAS.487.3776P/abstract">Poci et al. (2019)</a>.
         </div>
     </div>
