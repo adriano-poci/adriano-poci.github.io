@@ -11,10 +11,10 @@ Specifically, I have been developing and analysing dynamical models of external,
 ---
 
 <style>
-.grid-container {
+.contactGrid {
   display: grid;
   grid-template-columns: auto auto auto;
-  grid-gap: 10px;
+  grid-gap: 0px;
   justify-content: space-between;
 }
 
@@ -29,7 +29,7 @@ Specifically, I have been developing and analysing dynamical models of external,
 </style>
 
 <h4><a name="contact"></a>Contact</h4>
-<div class="grid-container">
+<div class="contactGrid">
     <!-- <div class="grid-row" style="grid-column: 1 / 2; grid-row: 1;">Adriano Poci</div> -->
     <div class="grid-row" style="grid-column: 1; grid-row: 1; text-align: right;">Email</div>
     <div class="grid-row" style="grid-column: 2; grid-row: 1; text-align: left;"><a href="mailto:adriano.poci@students.mq.edu.au">adriano.poci@students.mq.edu.au</a></div>
