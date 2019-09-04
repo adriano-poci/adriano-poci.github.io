@@ -5,7 +5,7 @@ description: I am a PhD student at Maquarie University, in Sydney, Australia. I 
 keywords: galaxy, dynamics, spectroscopy, stellar populations
 ---
 
-I am a PhD student at Maquarie University in Sydney, Australia. I am currently completing my research at the European Southern Observatory (ESO) headquarters in Garching, Germany. My research interests are centred around galaxy formation, and in particular the interplay between all observable properties of the stars; namely their motions, compositions, and ages.  
+I am a PhD student at Maquarie University in Sydney, Australia. I am currently completing my research at the European Southern Observatory ([ESO](eso.org)) headquarters in Garching, Germany. My research interests are centred around galaxy formation, and in particular the interplay between all observable properties of the stars; namely their motions, compositions, and ages.  
 Specifically, I have been developing and analysing dynamical models of external, spatially-resolved galaxies that include treatment of the stellar populations to ensure self-consistency.
 
 ---
@@ -49,8 +49,9 @@ Specifically, I have been developing and analysing dynamical models of external,
     <!-- <div class="grid-row" style="grid-column: 1 / 2; grid-row: 1;">Adriano Poci</div> -->
     <div class="grid-row" style="grid-column: 1; grid-row: 1; text-align: right;">Email</div>
     <div class="grid-row" style="grid-column: 2; grid-row: 1; text-align: left;"><a href="mailto:adriano.poci@students.mq.edu.au">adriano.poci@students.mq.edu.au</a></div>
-    <div class="grid-row" style="grid-column: 1; grid-row: 2; text-align: right;">Current Institute</div>
+    <div class="grid-row" style="grid-column: 1; grid-row: 2; text-align: right;">Current Affiliation(s)</div>
     <div class="grid-row" style="grid-column: 2; grid-row: 2; text-align: left;"><a href="https://researchers.mq.edu.au/en/persons/adriano-poci">Macquarie University</a></div>
+    <div class="grid-row" style="grid-column: 2; grid-row: 3; text-align: left;">ESO</div>
     <div class="contactPic"><img src="../assets/poci.png" height="50px" border="1px"></div>
 </div>
 
