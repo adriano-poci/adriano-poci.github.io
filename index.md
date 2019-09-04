@@ -20,7 +20,7 @@ Specifically, I have been developing and analysing dynamical models of external,
             Email: <a href="mailto:adriano.poci@students.mq.edu.au">adriano.poci@students.mq.edu.au</a>
         </div>
 
-        <div class="span3">
+        <div class="span3" margin-left:auto margin-right:0>
         <a href="../assets/poci.png">
             <img src="../assets/poci.png"
                   title="Adriano Poci" alt="Adriano Poci"/></a>
