@@ -11,19 +11,25 @@ Specifically, I have been developing and analysing dynamical models of external,
 ---
 
 <style>
-.contactGrid > div {
+.contactGrid {
   display: grid;
   grid-template-columns: auto auto auto;
   grid-gap: 1px;
   justify-content: space-between;
+}
+
+.contactGrid > div {
   text-align: center;
 }
 
-.resGrid > div {
+.resGrid {
   display: grid;
   grid-template-columns: auto auto;
   grid-gap: 1px;
   justify-content: space-between;
+}
+
+.resGrid > div {
   text-align: center;
 }
 
