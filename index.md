@@ -11,22 +11,18 @@ Specifically, I have been developing and analysing dynamical models of external,
 ---
 
 <style>
-.contactGrid {
+.contactGrid > div {
   display: grid;
   grid-template-columns: auto auto auto;
   grid-gap: 0px;
   justify-content: space-between;
 }
 
-.resGrid {
+.resGrid > div {
   display: grid;
   grid-template-columns: auto auto;
   grid-gap: 0px;
   justify-content: space-between;
-}
-
-.grid-container > div {
-  text-align: center;
 }
 
 .contactPic {
@@ -51,7 +47,7 @@ Specifically, I have been developing and analysing dynamical models of external,
 </div>
 
 <h2><a name="Highlights"></a>Research Highlights</h2>
-<div class="grif-container">
+<div class="resGrid">
 <h3><a name="massMGE"></a>Mass-Density Model</h3>
     <div class="contactPic"><img src="../assets/NGC3115-MGEPlot-110.00.png" height="50px" ></div>
     <div class="grid-row" style="grid-column: 2; grid-row: 1; text-align: left;">The first application of using the full observed <MATH>2D</MATH> stellar mass-to-light ratio <MATH>(M<sub>&#9733;</sub>/L)</MATH> to derive a projected mass for the dynamical model. The figure shows the original luminosity density model (dashed blue), the resulting mass density after scaling by the measured <MATH>(M<sub>&#9733;</sub>/L)</MATH> (solid black), and the final mass density model (solid red). This procedure ensures that the dynamical model is <i>a priori</i> consistent with the stellar populations. Taken from 
