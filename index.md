@@ -14,15 +14,17 @@ Specifically, I have been developing and analysing dynamical models of external,
 .contactGrid > div {
   display: grid;
   grid-template-columns: auto auto auto;
-  grid-gap: 0px;
+  grid-gap: 1px;
   justify-content: space-between;
+  text-align: center;
 }
 
 .resGrid > div {
   display: grid;
   grid-template-columns: auto auto;
-  grid-gap: 0px;
+  grid-gap: 1px;
   justify-content: space-between;
+  text-align: center;
 }
 
 .contactPic {
