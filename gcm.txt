@@ -1,2 +1,1 @@
-* Change MGE to `png`
-* Use HTML formatting in MGE section
+* Use HTML math symbols

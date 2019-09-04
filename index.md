@@ -33,8 +33,8 @@ Specfically, I have been developing and analysing dynamical models of external, 
 <div class="container">
 
     <div class="row-fluid">
-        <div class="span3">
-            One of the first applications of the full <MATH>2D</MATH> stellar mass-to-light ratio <MATH>(M_\star/L)</MATH> to derive a projected mass for the dynamical model using the stellar population information. Taken from 
+        <div class="span5">
+            One of the first applications of the full <MATH>2D</MATH> stellar mass-to-light ratio <MATH>(M<sub>&#9733;</sub>/L)</MATH> to derive a projected mass for the dynamical model using the stellar population information. Taken from 
 <a href="https://ui.adsabs.harvard.edu/abs/2019MNRAS.487.3776P/abstract">Poci et al. (2019)</a>.
         </div>
 
