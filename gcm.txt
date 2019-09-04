@@ -1,1 +1,1 @@
-* Fix image height
+* Updated "Contact"

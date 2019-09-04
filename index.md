@@ -13,18 +13,11 @@ Specifically, I have been developing and analysing dynamical models of external,
 
 <div class="w3-container">
 <h4><a name="contact"></a>Contact</h4>
-
-    <div class="row-fluid">
-        <div class="span9">
-            Adriano Poci<br/>
-            Email: <a href="mailto:adriano.poci@students.mq.edu.au">adriano.poci@students.mq.edu.au</a>
-        </div>
-
-        <div class="span3" margin-left:auto margin-right:0>
-        <a href="../assets/poci.png">
-            <img src="../assets/poci.png"
-                  title="Adriano Poci" alt="Adriano Poci"/></a>
-        </div>
+    <div>
+        <p>Adriano Poci<br/>
+            Email: <a href="mailto:adriano.poci@students.mq.edu.au">adriano.poci@students.mq.edu.au</a></p>
+        <p style="float: right;"><img src="../assets/poci.png"
+                  title="Adriano Poci" alt="Adriano Poci" height="50px"/></p>
     </div>
 </div>
 
@@ -34,7 +27,7 @@ Specifically, I have been developing and analysing dynamical models of external,
     <div class="row-fluid">
         <p style="float: left;"><a href="../assets/NGC3115-MGEPlot-110.00.png">
             <img src="../assets/NGC3115-MGEPlot-110.00.png"
-                  title="mass MGE" alt="mass MGE" height="200px"/></a></p>
+                  title="mass MGE" alt="mass MGE" height="100px"/></a></p>
         <p>The first application of using the full observed <MATH>2D</MATH> stellar mass-to-light ratio <MATH>(M<sub>&#9733;</sub>/L)</MATH> to derive a projected mass for the dynamical model. The figure shows the original luminosity density model (dashed blue), the resulting mass density after scaling by the measured <MATH>(M<sub>&#9733;</sub>/L)</MATH> (solid black), and the final mass density model (solid red). This procedure ensures that the dynamical model is <i>a priori</i> consistent with the stellar populations. Taken from 
 <a href="https://ui.adsabs.harvard.edu/abs/2019MNRAS.487.3776P/abstract">Poci et al. (2019)</a>.</p>
     </div>
@@ -45,7 +38,7 @@ Specifically, I have been developing and analysing dynamical models of external,
     <div class="row-fluid">
         <p style="float: left;"><a href="../assets/dispSBGrid_z_R_195_age06_metal04_azReg0.29_0.14.png">
             <img src="../assets/dispSBGrid_z_R_195_age06_metal04_azReg0.29_0.14.png"
-                  title="MFH" alt="mfh" height="200px"/></a></p>
+                  title="MFH" alt="mfh" height="100px"/></a></p>
         <p>The "mass formation history" for the nearby lenticular galaxy NGC 3115. The figure shows in the radial profiles of the vertical component of the intrinsic stellar veloicty dispserion, <MATH>&sigma;<sub>z</sub></MATH>, in boxes organised by the stellar age <MATH>t</MATH> (horizontally), and stellar metallicity <MATH>[Z/H]</MATH> (vertically). The mass formation history illustrates <em>where</em> and <em>when</em> the mass in the present-day galaxy formed. It is both a star-formation history, in that it can determine how much stellar mass formed <i>in situ</i>, and also an accretion history, in that it can determine which stars formed <i>ex situ</i> and where they are now. Taken from 
 <a href="https://ui.adsabs.harvard.edu/abs/2019MNRAS.487.3776P/abstract">Poci et al. (2019)</a>.</p>
     </div>
