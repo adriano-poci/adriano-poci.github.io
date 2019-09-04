@@ -34,12 +34,13 @@ Specfically, I have been developing and analysing dynamical models of external, 
 
     <div class="row-fluid">
         <div class="span3">
-            One of the first applications of the full $2D$ stellar mass-to-light ratio $(M_\star/L)$ to derive a projected mass for the dynamical model using the stellar population information. Taken from [Poci et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019MNRAS.487.3776P/abstract).
+            One of the first applications of the full <MATH>2D</MATH> stellar mass-to-light ratio <MATH>(M_\star/L)</MATH> to derive a projected mass for the dynamical model using the stellar population information. Taken from 
+<a href="https://ui.adsabs.harvard.edu/abs/2019MNRAS.487.3776P/abstract">Poci et al. (2019)</a>.
         </div>
 
         <div class="span5">
-        <a href="../assets/NGC3115-MGEPlot-110.00.pdf">
-            <img src="../assets/NGC3115-MGEPlot-110.00.pdf"
+        <a href="../assets/NGC3115-MGEPlot-110.00.png">
+            <img src="../assets/NGC3115-MGEPlot-110.00.png"
                   title="mass MGE" alt="mass MGE"/></a>
         </div>
     </div>
