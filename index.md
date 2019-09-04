@@ -10,12 +10,29 @@ Specifically, I have been developing and analysing dynamical models of external,
 
 ---
 
+<style>
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto;
+  grid-gap: 10px;
+  justify-content: space-between;
+}
 
-<div class="w3-container">
-    <h4><a name="contact"></a>Contact</h4>
-<div><p style="float: right;"><img src="../assets/poci.png" height="50px" border="1px"></p>
-<p>Adriano Poci<br/> Email: <a href="mailto:adriano.poci@students.mq.edu.au">adriano.poci@students.mq.edu.au</a></p>
-</div>
+.grid-container > div {
+  text-align: center;
+}
+
+.pic {
+  grid-row: 1 / 4;
+}
+</style>
+
+<h4><a name="contact"></a>Contact</h4>
+<div class="grid-container">
+    <div class="grid-row">Adriano Poci</div>
+    <div class="grid-row">Email: <a href="mailto:adriano.poci@students.mq.edu.au">adriano.poci@students.mq.edu.au</a></div>
+    <div class="grid-row">Current Institute: Macquarie University</div>
+    <div class="pic"><img src="../assets/poci.png" height="50px" border="1px"></div>
 </div>
 
 <h2><a name="Highlights"></a>Research Highlights</h2>
