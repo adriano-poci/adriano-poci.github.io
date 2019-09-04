@@ -34,12 +34,12 @@ Specifically, I have been developing and analysing dynamical models of external,
     <div class="grid-row" style="grid-column: 1; grid-row: 1; text-align: right;">Email</div>
     <div class="grid-row" style="grid-column: 2; grid-row: 1; text-align: left;"><a href="mailto:adriano.poci@students.mq.edu.au">adriano.poci@students.mq.edu.au</a></div>
     <div class="grid-row" style="grid-column: 1; grid-row: 2; text-align: right;">Current Institute</div>
-    <div class="grid-row" style="grid-column: 2; grid-row: 2; text-align: left;">>a href-"https://researchers.mq.edu.au/en/persons/adriano-poci">Macquarie University</a></div>
+    <div class="grid-row" style="grid-column: 2; grid-row: 2; text-align: left;"><a href="https://researchers.mq.edu.au/en/persons/adriano-poci">Macquarie University</a></div>
     <div class="pic"><img src="../assets/poci.png" height="50px" border="1px"></div>
 </div>
 
 <h2><a name="Highlights"></a>Research Highlights</h2>
-<div class="w3-container">
+<div class="grif-container">
 <h3><a name="massMGE"></a>Mass-Density Model</h3>
     <div>
         <p style="float: left;"><img src="../assets/NGC3115-MGEPlot-110.00.png" height="50px" border="1px"></p>
