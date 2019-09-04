@@ -28,22 +28,8 @@ Specfically, I have been developing and analysing dynamical models of external, 
     </div>
 </div>
 
-<div class="container">
-<h4><a name="reshigh"></a>Research Highlights</h4>
-
-    <div class="row-fluid">
-        <div class="span5">
-            Adriano Poci<br/>
-            Email: adriano.poci@students.mq.edu.au<br/>
-        </div>
-
-        <div class="span2">
-        <a href="../assets/poci.png">
-            <img src="../assets/poci.png"
-                  title="Adriano Poci" alt="Adriano Poci"/></a>
-        </div>
-    </div>
-</div>
+# Research Highlights
+=====================
 
 <div class="navbar">
   <div class="navbar-inner">
