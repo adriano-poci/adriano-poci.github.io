@@ -23,7 +23,7 @@ Specifically, I have been developing and analysing dynamical models of external,
 }
 
 .pic {
-  grid-row: 1 / 4;
+  grid-row: 1 / 3;
   grid-column: 3
 }
 </style>
@@ -33,8 +33,8 @@ Specifically, I have been developing and analysing dynamical models of external,
     <div class="grid-row" style="grid-column: 1 / 2; grid-row: 1;">Adriano Poci</div>
     <div class="grid-row" style="grid-column: 1; grid-row: 2; text-align: right;">Email</div>
     <div class="grid-row" style="grid-column: 2; grid-row: 2; text-align: left;"><a href="mailto:adriano.poci@students.mq.edu.au">adriano.poci@students.mq.edu.au</a></div>
-    <div class="grid-row" style="grid-column: 1; grid-row: 2; text-align: right;">Current Institute:</div>
-    <div class="grid-row" style="grid-column: 1; grid-row: 2; text-align: left;">Macquarie University</div>
+    <div class="grid-row" style="grid-column: 1; grid-row: 3; text-align: right;">Current Institute:</div>
+    <div class="grid-row" style="grid-column: 2; grid-row: 3; text-align: left;">Macquarie University</div>
     <div class="pic"><img src="../assets/poci.png" height="50px" border="1px"></div>
 </div>
 
