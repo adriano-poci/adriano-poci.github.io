@@ -29,7 +29,7 @@ Specifically, I have been developing and analysing dynamical models of external,
 </div>
 
 <h2><a name="Highlights"></a>Research Highlights</h2>
-<div class="container" style="background-color:#D3D3D3">
+<div class="container">
 <h3><a name="massMGE"></a>Mass-Density Model</h3>
     <div class="row-fluid">
         <div class="span6">
