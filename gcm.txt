@@ -1,1 +1,1 @@
-* Optimised figure and text placement for "Contact"
+* Put "Research Highlights" in grid as well
