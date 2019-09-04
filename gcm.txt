@@ -1,1 +1,2 @@
-* Set new line in `index.md`
+* Added `Email Me` link to front page
+* Added MGE highlight

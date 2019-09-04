@@ -29,7 +29,21 @@ Specfically, I have been developing and analysing dynamical models of external, 
 </div>
 
 # Research Highlights
-=====================
+
+<div class="container">
+
+    <div class="row-fluid">
+        <div class="span3">
+            One of the first applications of the full $2D$ stellar mass-to-light ratio $(M_\star/L)$ to derive a projected mass for the dynamical model using the stellar population information. Taken from [Poci et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019MNRAS.487.3776P/abstract).
+        </div>
+
+        <div class="span5">
+        <a href="../assets/NGC3115-MGEPlot-110.00.pdf">
+            <img src="../assets/NGC3115-MGEPlot-110.00.pdf"
+                  title="mass MGE" alt="mass MGE"/></a>
+        </div>
+    </div>
+</div>
 
 <div class="navbar">
   <div class="navbar-inner">
@@ -37,6 +51,7 @@ Specfically, I have been developing and analysing dynamical models of external, 
           <li><a href="{{ BASE_PATH }}/assets/CV.pdf">CV</a></li>
           <li><a href="https://github.com/adriano-poci">GitHub</a></li>
           <li><a href="https://ui.adsabs.harvard.edu/search/p_=0&q=author%3A%22Poci%2C%20Adriano%22&sort=date%20desc%2C%20bibcode%20desc">Publications (NASA/ADS)</a></li>
+          <li><a href="mailto:adriano.poci@students.mq.edu.au">Email Me</a></li>
       </ul>
   </div>
 </div>
