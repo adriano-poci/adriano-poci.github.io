@@ -1,1 +1,1 @@
-* Manually set column widths
+* Add email as href
