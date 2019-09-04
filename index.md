@@ -13,12 +13,7 @@ Specifically, I have been developing and analysing dynamical models of external,
 
 <div class="w3-container">
 <h4><a name="contact"></a>Contact</h4>
-    <div>
-        <p>Adriano Poci<br/>
-            Email: <a href="mailto:adriano.poci@students.mq.edu.au">adriano.poci@students.mq.edu.au</a></p>
-        <p><img src="../assets/poci.png"
-                  title="Adriano Poci" alt="Adriano Poci" height="50px"/></p>
-    </div>
+    <img src="../assets/poci.png" title="Adriano Poci" alt="Adriano Poci" height="50px"/> <p>Adriano Poci<br/> Email: <a href="mailto:adriano.poci@students.mq.edu.au">adriano.poci@students.mq.edu.au</a></p>
 </div>
 
 <h2><a name="Highlights"></a>Research Highlights</h2>
