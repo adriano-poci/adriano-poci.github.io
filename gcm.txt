@@ -1,1 +1,1 @@
-* Adjusted figure placement
+* Optimised figure and text placement for "Contact"

@@ -30,11 +30,11 @@ Specifically, I have been developing and analysing dynamical models of external,
 
 <h4><a name="contact"></a>Contact</h4>
 <div class="grid-container">
-    <div class="grid-row" style="grid-column: 1 / 2; grid-row: 1;">Adriano Poci</div>
-    <div class="grid-row" style="grid-column: 1; grid-row: 2; text-align: right;">Email</div>
-    <div class="grid-row" style="grid-column: 2; grid-row: 2; text-align: left;"><a href="mailto:adriano.poci@students.mq.edu.au">adriano.poci@students.mq.edu.au</a></div>
-    <div class="grid-row" style="grid-column: 1; grid-row: 3; text-align: right;">Current Institute:</div>
-    <div class="grid-row" style="grid-column: 2; grid-row: 3; text-align: left;">Macquarie University</div>
+    <!-- <div class="grid-row" style="grid-column: 1 / 2; grid-row: 1;">Adriano Poci</div> -->
+    <div class="grid-row" style="grid-column: 1; grid-row: 1; text-align: right;">Email</div>
+    <div class="grid-row" style="grid-column: 2; grid-row: 1; text-align: left;"><a href="mailto:adriano.poci@students.mq.edu.au">adriano.poci@students.mq.edu.au</a></div>
+    <div class="grid-row" style="grid-column: 1; grid-row: 2; text-align: right;">Current Institute</div>
+    <div class="grid-row" style="grid-column: 2; grid-row: 2; text-align: left;">>a href-"https://researchers.mq.edu.au/en/persons/adriano-poci">Macquarie University</a></div>
     <div class="pic"><img src="../assets/poci.png" height="50px" border="1px"></div>
 </div>
 
