@@ -13,7 +13,7 @@ Specifically, I have been developing and analysing dynamical models of external,
 
 <div class="w3-container">
     <h4><a name="contact"></a>Contact</h4>
-<div><p style="float: left;"><img src="../assets/poci.png" height="50px" border="1px"></p>
+<div><p style="float: right;"><img src="../assets/poci.png" height="50px" border="1px"></p>
 <p>Adriano Poci<br/> Email: <a href="mailto:adriano.poci@students.mq.edu.au">adriano.poci@students.mq.edu.au</a></p>
 </div>
 </div>
@@ -23,7 +23,6 @@ Specifically, I have been developing and analysing dynamical models of external,
 <h3><a name="massMGE"></a>Mass-Density Model</h3>
     <div>
         <p style="float: left;"><img src="../assets/NGC3115-MGEPlot-110.00.png" height="50px" border="1px"></p>
-                  title="mass MGE" alt="mass MGE" height="100px"/></a></p>
         <p>The first application of using the full observed <MATH>2D</MATH> stellar mass-to-light ratio <MATH>(M<sub>&#9733;</sub>/L)</MATH> to derive a projected mass for the dynamical model. The figure shows the original luminosity density model (dashed blue), the resulting mass density after scaling by the measured <MATH>(M<sub>&#9733;</sub>/L)</MATH> (solid black), and the final mass density model (solid red). This procedure ensures that the dynamical model is <i>a priori</i> consistent with the stellar populations. Taken from 
 <a href="https://ui.adsabs.harvard.edu/abs/2019MNRAS.487.3776P/abstract">Poci et al. (2019)</a>.</p>
     </div>
