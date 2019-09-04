@@ -1,1 +1,1 @@
-* Add email as href
+* Fixed closing quotation

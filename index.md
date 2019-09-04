@@ -17,7 +17,7 @@ Specifically, I have been developing and analysing dynamical models of external,
     <div class="w3-row">
         <div class="w3-col s11">
             Adriano Poci<br/>
-            Email: <a href="mailto:adriano.poci@students.mq.edu.au>adriano.poci@students.mq.edu.au</a>
+            Email: <a href="mailto:adriano.poci@students.mq.edu.au">adriano.poci@students.mq.edu.au</a>
         </div>
 
         <div class="w3-col s1">
