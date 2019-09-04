@@ -1,1 +1,1 @@
-* Updated "Contact"
+* Fixed `head`
