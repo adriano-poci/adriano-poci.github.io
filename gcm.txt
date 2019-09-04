@@ -1,1 +1,1 @@
-* Attempt new theme
+* Theme in `assets/themes`
