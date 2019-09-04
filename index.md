@@ -18,13 +18,25 @@ Specifically, I have been developing and analysing dynamical models of external,
   justify-content: space-between;
 }
 
+.resGrid {
+  display: grid;
+  grid-template-columns: auto auto;
+  grid-gap: 0px;
+  justify-content: space-between;
+}
+
 .grid-container > div {
   text-align: center;
 }
 
-.pic {
+.contactPic {
   grid-row: 1 / 3;
   grid-column: 3
+}
+
+.resPic {
+  grid-row: 1 / 3;
+  grid-column: 1
 }
 </style>
 
@@ -35,17 +47,15 @@ Specifically, I have been developing and analysing dynamical models of external,
     <div class="grid-row" style="grid-column: 2; grid-row: 1; text-align: left;"><a href="mailto:adriano.poci@students.mq.edu.au">adriano.poci@students.mq.edu.au</a></div>
     <div class="grid-row" style="grid-column: 1; grid-row: 2; text-align: right;">Current Institute</div>
     <div class="grid-row" style="grid-column: 2; grid-row: 2; text-align: left;"><a href="https://researchers.mq.edu.au/en/persons/adriano-poci">Macquarie University</a></div>
-    <div class="pic"><img src="../assets/poci.png" height="50px" border="1px"></div>
+    <div class="contactPic"><img src="../assets/poci.png" height="50px" border="1px"></div>
 </div>
 
 <h2><a name="Highlights"></a>Research Highlights</h2>
 <div class="grif-container">
 <h3><a name="massMGE"></a>Mass-Density Model</h3>
-    <div>
-        <p style="float: left;"><img src="../assets/NGC3115-MGEPlot-110.00.png" height="50px" border="1px"></p>
-        <p>The first application of using the full observed <MATH>2D</MATH> stellar mass-to-light ratio <MATH>(M<sub>&#9733;</sub>/L)</MATH> to derive a projected mass for the dynamical model. The figure shows the original luminosity density model (dashed blue), the resulting mass density after scaling by the measured <MATH>(M<sub>&#9733;</sub>/L)</MATH> (solid black), and the final mass density model (solid red). This procedure ensures that the dynamical model is <i>a priori</i> consistent with the stellar populations. Taken from 
-<a href="https://ui.adsabs.harvard.edu/abs/2019MNRAS.487.3776P/abstract">Poci et al. (2019)</a>.</p>
-    </div>
+    <div class="contactPic"><img src="../assets/NGC3115-MGEPlot-110.00.png" height="50px" ></div>
+    <div class="grid-row" style="grid-column: 2; grid-row: 1; text-align: left;">The first application of using the full observed <MATH>2D</MATH> stellar mass-to-light ratio <MATH>(M<sub>&#9733;</sub>/L)</MATH> to derive a projected mass for the dynamical model. The figure shows the original luminosity density model (dashed blue), the resulting mass density after scaling by the measured <MATH>(M<sub>&#9733;</sub>/L)</MATH> (solid black), and the final mass density model (solid red). This procedure ensures that the dynamical model is <i>a priori</i> consistent with the stellar populations. Taken from 
+<a href="https://ui.adsabs.harvard.edu/abs/2019MNRAS.487.3776P/abstract">Poci et al. (2019)</a>.</div>
 </div>
 
 <div class="w3-container">
