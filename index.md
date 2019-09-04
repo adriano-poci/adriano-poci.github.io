@@ -28,20 +28,19 @@ Specifically, I have been developing and analysing dynamical models of external,
     </div>
 </div>
 
-# Research Highlights
-
-<div class="container">
-
+<h2><a name="Highlights"></a>Research Highlights</h2>
+<div class="container" style="background-color:#D3D3D3">
+<h3><a name="massMGE"></a>Mass-Density Model</h3>
     <div class="row-fluid">
-        <div class="span6">
-            One of the first applications of the full <MATH>2D</MATH> stellar mass-to-light ratio <MATH>(M<sub>&#9733;</sub>/L)</MATH> to derive a projected mass for the dynamical model using the stellar population information. Taken from 
-<a href="https://ui.adsabs.harvard.edu/abs/2019MNRAS.487.3776P/abstract">Poci et al. (2019)</a>.
-        </div>
-
         <div class="span6">
         <a href="../assets/NGC3115-MGEPlot-110.00.png">
             <img src="../assets/NGC3115-MGEPlot-110.00.png"
                   title="mass MGE" alt="mass MGE"/></a>
+        </div>
+    
+        <div class="span6">
+            One of the first applications of the full <MATH>2D</MATH> stellar mass-to-light ratio <MATH>(M<sub>&#9733;</sub>/L)</MATH> to derive a projected mass for the dynamical model using the stellar population information. Taken from 
+<a href="https://ui.adsabs.harvard.edu/abs/2019MNRAS.487.3776P/abstract">Poci et al. (2019)</a>.
         </div>
     </div>
 </div>
