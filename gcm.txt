@@ -1,1 +1,1 @@
-* Fixed `head`
+* Adjusted figure placement
