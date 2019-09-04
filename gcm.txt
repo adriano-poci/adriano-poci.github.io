@@ -1,1 +1,1 @@
-* Remove span digits
+* Manually set column widths

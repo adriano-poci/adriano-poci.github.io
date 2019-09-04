@@ -14,13 +14,13 @@ Specfically, I have been developing and analysing dynamical models of external, 
 <div class="container">
 <h4><a name="contact"></a>Contact</h4>
 
-    <div class="row-fluid">
-        <div class="span">
+    <div class="w3-row">
+        <div class="w3-col s11">
             Adriano Poci<br/>
             Email: adriano.poci@students.mq.edu.au<br/>
         </div>
 
-        <div class="span">
+        <div class="w3-col s1">
         <a href="../assets/poci.png">
             <img src="../assets/poci.png"
                   title="Adriano Poci" alt="Adriano Poci"/></a>
@@ -32,13 +32,13 @@ Specfically, I have been developing and analysing dynamical models of external, 
 
 <div class="container">
 
-    <div class="row-fluid">
-        <div class="span">
+    <div class="w3-row">
+        <div class="w3-col s7">
             One of the first applications of the full <MATH>2D</MATH> stellar mass-to-light ratio <MATH>(M<sub>&#9733;</sub>/L)</MATH> to derive a projected mass for the dynamical model using the stellar population information. Taken from 
 <a href="https://ui.adsabs.harvard.edu/abs/2019MNRAS.487.3776P/abstract">Poci et al. (2019)</a>.
         </div>
 
-        <div class="span">
+        <div class="w3-col s5">
         <a href="../assets/NGC3115-MGEPlot-110.00.png">
             <img src="../assets/NGC3115-MGEPlot-110.00.png"
                   title="mass MGE" alt="mass MGE"/></a>
