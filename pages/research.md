@@ -13,7 +13,8 @@ A first application of this methodology was published in [Poci et al. (2019)](ht
 
 ## Past Research
 
-My earlier work was investigating the impact of including the derived stellar mass-to-light ratio <MATH>(M<sub>&#9733;</sub>/L)</MATH> into dynamical models. That work used the Jeans Anisotropic Model ([JAM](http://www-astro.physics.ox.ac.uk/~mxc/software/); [Cappellari, 2008](https://ui.adsabs.harvard.edu/abs/2008MNRAS.390...71C/abstract))
+My earlier work was investigating the impact of including the derived stellar mass-to-light ratio <MATH>(M<sub>&#9733;</sub>/L)</MATH> into dynamical models. That work used the Jeans Anisotropic Model ([JAM](http://www-astro.physics.ox.ac.uk/~mxc/software/); [Cappellari, 2008](https://ui.adsabs.harvard.edu/abs/2008MNRAS.390...71C/abstract)).   
+The results of that work were two-fold;
 
 
 <!-- Note: this is how to write a comment in HTML. Everything in here won't show up on your webpage.-->
