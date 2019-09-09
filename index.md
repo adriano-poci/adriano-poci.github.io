@@ -25,7 +25,7 @@ Specifically, I have been developing and analysing dynamical models of external,
 .resGrid {
   display: grid;
   grid-template-columns: auto auto;
-  grid-column-gap: 5px;
+  grid-column-gap: 9px;
   justify-content: space-between;
 }
 
