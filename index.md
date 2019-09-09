@@ -34,7 +34,7 @@ Specifically, I have been developing and analysing dynamical models of external,
 }
 
 .contactPic {
-  grid-row: 1 / 3;
+  grid-row: 1 / 4;
   grid-column: 3
 }
 
@@ -55,6 +55,10 @@ Specifically, I have been developing and analysing dynamical models of external,
             <li><a href="https://researchers.mq.edu.au/en/persons/adriano-poci">Macquarie University</a></li>
             <li>ESO</li>
         </ul>
+    </div>
+    <div class="grid-row" style="grid-column: 1; grid-row: 3; text-align: right;">ORCID</div>
+    <div class="grid-row" style="grid-column: 2; grid-row: 3;">
+        <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-5422-7441" href="https://orcid.org/0000-0002-5422-7441" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0002-5422-7441</a></div>
     </div>
     <div class="contactPic"><img src="../assets/poci.png" height="50px" border="1px"></div>
 </div>
