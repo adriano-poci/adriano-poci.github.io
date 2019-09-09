@@ -1,2 +1,1 @@
-* Increased spacing in `Highlights` tables
-* Updated CV
+* Updated mass MGE image
