@@ -1,1 +1,2 @@
-* Re-instated underline in `research.md`
+* Changed custom colours again
+* Use floats for images in `research.md`
