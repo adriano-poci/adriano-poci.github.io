@@ -1,2 +1,2 @@
 * Changed custom colours again
-* Use floats for images in `research.md`
+* Tweaked image widths

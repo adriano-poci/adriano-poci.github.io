@@ -7,15 +7,15 @@ code {
 }
 
 a code {
-    color: #1c1b1c;
+    color: #0066ff;
 }
 
 a {
-    color: #1c1b1c;
+    color: #0066ff;
 }
 
 a:hover {
-    color: #002f6c;
+    color: #990000;
     background-color: #e3e4fa;
     text-decoration: none;
 }
@@ -25,7 +25,7 @@ a img {
 }
 
 a:hover img {
-    color: #002f6c;
+    color: #990000;
     background-color: #e3e4fa;
     text-decoration: none;
     border: solid 2px #e3e4fa;
@@ -58,7 +58,7 @@ td.right {
 
 
 h1, h2, h3, h4 {
-    color: #002f6c;
+    color: #990000;
 }
 
 .danger {
