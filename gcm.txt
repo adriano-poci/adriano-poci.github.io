@@ -1,1 +1,3 @@
-* Updated mass MGE image
+* Corrected `contactPic` to `resPic` to Research images `class`
+* Updated custom css colours
+* Expanded `Past Research' section
