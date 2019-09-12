@@ -1,2 +1,1 @@
-* Changed custom colours again
-* Tweaked image widths
+* Clarified text in `research.md`
