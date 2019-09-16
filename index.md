@@ -78,6 +78,9 @@ Specifically, I have been developing and analysing dynamical models of external,
 <a href="https://ui.adsabs.harvard.edu/abs/2019MNRAS.487.3776P/abstract">Poci et al. (2019)</a>.</div>
 </div>
 
+<h2><a name="Reads"></a>Reads</h2>
+[Master's Thesis](http://hdl.handle.net/1959.14/1185049)
+
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
@@ -88,6 +91,3 @@ Specifically, I have been developing and analysing dynamical models of external,
       </ul>
   </div>
 </div>
-
-<h2><a name="Reads"></a>Reads</h2>
-[Master's Thesis](http://hdl.handle.net/1959.14/1185049)

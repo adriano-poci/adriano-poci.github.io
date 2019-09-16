@@ -1,1 +1,1 @@
-* Added `Reads` section
+* Fixed section order
