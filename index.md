@@ -79,7 +79,7 @@ Specifically, I have been developing and analysing dynamical models of external,
 </div>
 
 <h2><a name="Reads"></a>Reads</h2>
-[Master's Thesis](http://hdl.handle.net/1959.14/1185049)
+[Master's Thesis](http://hdl.handle.net/1959.14/1185049) (MQU)
 
 <div class="navbar">
   <div class="navbar-inner">
