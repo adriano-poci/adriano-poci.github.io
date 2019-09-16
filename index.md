@@ -64,14 +64,14 @@ Specifically, I have been developing and analysing dynamical models of external,
 </div>
 
 <h2><a name="Highlights"></a>Research Highlights</h2>
-<h3><a name="massMGE"></a>Mass-Density Model</h3>
+<h4><a name="massMGE"></a>Mass-Density Model</h4>
 <div class="resGrid">
     <div class="resPic"><a href="../assets/NGC3115-MGEPlot-110.00.png" title="massMGE"><img src="../assets/NGC3115-MGEPlot-110.00.png" height="50px" ></a></div>
     <div class="grid-row" style="grid-column: 2; grid-row: 1; text-align: left;">The first application of using the full observed <MATH>2D</MATH> stellar mass-to-light ratio <MATH>(M<sub>&#9733;</sub>/L)</MATH> to derive a projected mass for the dynamical model. The figure shows the original luminosity density model (dashed blue), the resulting mass density after scaling by the measured <MATH>(M<sub>&#9733;</sub>/L)</MATH> (solid black), and the final mass density model (solid red). This procedure ensures that the dynamical model is <i>a priori</i> consistent with the stellar populations. Taken from 
 <a href="https://ui.adsabs.harvard.edu/abs/2019MNRAS.487.3776P/abstract">Poci et al. (2019)</a>.</div>
 </div>
 
-<h3><a name="mfh"></a>Mass Formation History</h3>
+<h4><a name="mfh"></a>Mass Formation History</h4>
 <div class="resGrid">
     <div class="resPic"><a href="../assets/dispSBGrid_z_R_195_age06_metal04_azReg0.29_0.14.png" title="MFH"><img src="../assets/dispSBGrid_z_R_195_age06_metal04_azReg0.29_0.14.png" height="50px" ></a></div>
     <div class="grid-row" style="grid-column: 2; grid-row: 1; text-align: left;">The "mass formation history" for the nearby lenticular galaxy NGC 3115. The figure shows in the radial profiles of the vertical component of the intrinsic stellar veloicty dispserion, <MATH>&sigma;<sub>z</sub></MATH>, in boxes organised by the stellar age <MATH>t</MATH> (horizontally), and stellar metallicity <MATH>[Z/H]</MATH> (vertically). The mass formation history illustrates <em>where</em> and <em>when</em> the mass in the present-day galaxy formed. It is both a star-formation history, in that it can determine how much stellar mass formed <i>in situ</i>, and also an accretion history, in that it can determine which stars formed <i>ex situ</i> and where they are now. Taken from 
@@ -88,3 +88,6 @@ Specifically, I have been developing and analysing dynamical models of external,
       </ul>
   </div>
 </div>
+
+<h2><a name="Reads"></a>Reads</h2>
+[Master's Thesis](http://hdl.handle.net/1959.14/1185049)
