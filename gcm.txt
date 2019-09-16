@@ -1,1 +1,2 @@
-* Clarified text in `research.md`
+* Changed heading colour in `./assets/themes/twitter/css/my_custom_css.css`
+* Updated CV
