@@ -1,1 +1,1 @@
-* Fixed section order
+* Added BHC figure
