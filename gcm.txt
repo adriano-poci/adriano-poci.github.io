@@ -1,1 +1,1 @@
-* Added BHC figure
+* Fixed `&tilde;` to `&sim;`
