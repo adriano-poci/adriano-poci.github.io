@@ -5,8 +5,6 @@ description: I am a PhD student at Maquarie University, in Sydney, Australia. I 
 keywords: galaxy, dynamics, spectroscopy, stellar populations
 ---
 
-<meta name="google-site-verification" content="A7Dt5JxqQacjNIHZo16Fk6XendaJZXbdY-SDp2ZS2n8" />
-
 I am a PhD student at Maquarie University in Sydney, Australia. I am currently completing my research at the European Southern Observatory ([ESO](http://eso.org)) headquarters in Garching, Germany. My research interests are centred around galaxy formation, and in particular the interplay between all observable properties of the stars; namely their motions, compositions, and ages.  
 Specifically, I have been developing and analysing dynamical models of external, spatially-resolved galaxies that include treatment of the stellar populations to ensure self-consistency.
 
