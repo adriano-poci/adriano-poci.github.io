@@ -1,1 +1,1 @@
-* Cleaned up `Contact` table
+* Cleaned up `Affiliations` list
