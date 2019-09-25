@@ -54,7 +54,7 @@ Specifically, I have been developing and analysing dynamical models of external,
         <ul style="list-style: none; padding-left: 0;">
             <li><a href="https://researchers.mq.edu.au/en/persons/adriano-poci">Macquarie University</a></li>
             <li>ESO</li>
-        </dl>
+        </ul>
     </div>
     <div class="grid-row" style="grid-column: 1; grid-row: 3; text-align: right;">ORCID</div>
     <div class="grid-row" style="grid-column: 2; grid-row: 3;">
