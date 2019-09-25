@@ -51,10 +51,10 @@ Specifically, I have been developing and analysing dynamical models of external,
     <div class="grid-row" style="grid-column: 2; grid-row: 1; text-align: left;"><a href="mailto:adriano.poci@students.mq.edu.au">adriano.poci@students.mq.edu.au</a></div>
     <div class="grid-row" style="grid-column: 1; grid-row: 2; text-align: right;">Current Affiliation(s)</div>
     <div class="grid-row" style="grid-column: 2; grid-row: 2; text-align: left;">
-        <ul style="list-style: none;">
-            <li><a href="https://researchers.mq.edu.au/en/persons/adriano-poci">Macquarie University</a></li>
-            <li>ESO</li>
-        </ul>
+        <dl>
+            <dt><a href="https://researchers.mq.edu.au/en/persons/adriano-poci">Macquarie University</a></dt>
+            <dt>ESO</dt>
+        </dl>
     </div>
     <div class="grid-row" style="grid-column: 1; grid-row: 3; text-align: right;">ORCID</div>
     <div class="grid-row" style="grid-column: 2; grid-row: 3;">
