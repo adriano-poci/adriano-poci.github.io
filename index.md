@@ -79,7 +79,7 @@ Specifically, I have been developing and analysing dynamical models of external,
 <h4><a name="massMGE"></a>Mass-Density Model</h4>
 <div class="resGrid">
     <div class="resPic"><a href="../assets/NGC3115-MGEPlot-110.00.png" title="massMGE"><img src="../assets/NGC3115-MGEPlot-110.00.png" height="50px" ></a></div>
-    <div class="grid-row" style="grid-column: 2; grid-row: 1; text-align: left;">The first application of using the full observed <MATH>2D</MATH> stellar mass-to-light ratio <MATH>(M<sub>&#9733;</sub>/L)</MATH> to derive a projected mass for the dynamical model. The figure shows the original luminosity density model (dashed blue), the resulting mass density after scaling by the measured <MATH>(M<sub>&#9733;</sub>/L)</MATH> (solid black), and the final mass density model (solid red). This procedure ensures that the dynamical model is <i>a priori</i> consistent with the stellar populations. Taken from 
+    <div class="grid-row" style="grid-column: 2; grid-row: 1; text-align: left;">The first application of using the full observed <MATH>2D</MATH> stellar mass-to-light ratio <MATH>(M<sub>&#9733;</sub>/L)</MATH> to derive a projected mass for the dynamical model. The figure shows the original luminosity density model (dashed blue), the resulting mass density after scaling by the measured <MATH>M<sub>&#9733;</sub>/L</MATH> (solid black), and the final mass density model (solid red). This procedure ensures that the dynamical model is <i>a priori</i> consistent with the stellar populations. Taken from 
 <a href="https://ui.adsabs.harvard.edu/abs/2019MNRAS.487.3776P/abstract">Poci et al. (2019)</a>.</div>
 </div>
 
