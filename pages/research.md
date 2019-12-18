@@ -51,8 +51,3 @@ To decrease the size of the title, use more #.
 To remove the italics, remove the * before and after the description
 To remove the underline from the title, remove the <u> tags (<u> and </u>)
 -->
-<!-- <div class="resGrid"> -->
-    <!-- <div class="resPic"><a href="../assets/sDist-1.png" title="slopeDistributions"><img src="../assets/sDist-1.png" height="50px" ></a></div> -->
-    <!-- <div class="grid-row" style="grid-column: 2; grid-row: 1; text-align: left;">The "mass formation history" for the nearby lenticular galaxy NGC 3115. The figure shows radial profiles of the vertical component of the intrinsic stellar velocity dispersion, <MATH>&sigma;<sub>z</sub></MATH>, in sub-panels organised by the stellar age <MATH>t</MATH> (horizontally), and stellar metallicity <MATH>[Z/H]</MATH> (vertically). The mass formation history illustrates <em>where</em> and <em>when</em> the mass in the present-day galaxy formed. It is both a star-formation history, in that it can determine how much stellar mass formed <i>in situ</i>, and also an accretion history, in that it can determine which stars formed <i>ex situ</i> and where they are now. Taken from  -->
-<!-- <a href="https://ui.adsabs.harvard.edu/abs/2019MNRAS.487.3776P/abstract">Poci et al. (2019)</a>.</div> -->
-<!-- </div> -->
