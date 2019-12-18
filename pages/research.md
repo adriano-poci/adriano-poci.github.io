@@ -40,6 +40,11 @@ The results of that work were two-fold;
 <h4><a name="bhc"></a>Total-Mass Density Profile Slopes</h4>
 <a href="../assets/sDist-1.png"><img src="../assets/sDist-1.png" style="float: left; width: 40%; margin-right: 1%; margin-bottom: 0.5em;" ></a>
 <p>In addition to IMF constraints, and owing to the specific dynamical model that was employed for the above result, we found interesting correlations with the total (dynamical) mass of galaxies. Rather than applying some baryonic+dark mass model, which requires assumptions about both the baryonic and dark-matter distributions, we constrain the total dynamical mass directly with our models. This allows for robust measurements of the profile of the total-mass density, constrained directly by the observed kinematics. Most notably, we find that the distribution of slopes of the profiles of the total-mass density is more concentrated than that of the stellar-mass density, and is centred on a nearly-isothermal value of <MATH>&gamma;<sub>tot.</sub> &sim; -2.1</MATH> (<a href="https://ui.adsabs.harvard.edu/abs/2017MNRAS.467.1397P/abstract">Poci et al., 2017</a>).
+<p>These total-mass desnity slopes were also found to correlation with a number of other physical properties of galaxies. the strongest such correlation was found to be with the central velocity dispersion (within <MATH>1 R<sub>e</sub></MATH>), <MATH> &sigma;<sub>e</sub></MATH>, illustrated here. This correlation is interesting because it shows a clear transition at <MATH> <apply><log/>
+                <logbase><cn>10</cn></logbase>
+                <ci>&sigma;<sub>e</sub></ci>
+              </apply> </MATH>.
+<a href="../assets/sDist-1.png"><img src="../assets/sDist-1.png" style="float: left; width: 40%; margin-right: 1%; margin-bottom: 0.5em;" ></a>
 
 <!-- Note: this is how to write a comment in HTML. Everything in here won't show up on your webpage.-->
 
