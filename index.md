@@ -2,7 +2,7 @@
 layout: frontpage
 title: Adriano Poci
 description: I am a PhD student at Maquarie University, in Sydney, Australia. I am currently completing my studies at the European Southern Observatory (ESO) headquarters in Garching, Germany.
-keywords: galaxy, dynamics, spectroscopy, stellar populations
+keywords: galaxy, dynamics, spectroscopy, stellar populations, adriano, poci
 ---
 
 I am a PhD student at Maquarie University in Sydney, Australia. I am currently completing my research at the European Southern Observatory ([ESO](http://eso.org)) headquarters in Garching, Germany. My research interests are centred around galaxy formation, and in particular the interplay between all observable properties of the stars; namely their motions, compositions, and ages.  
@@ -68,6 +68,11 @@ Specifically, I have been developing and analysing dynamical models of external,
     <div class="contactPic"><img src="{{ BASE_PATH }}/assets/poci.png" height="50px" border="1px"/></div>
 </div>
 
+---
+
+<h2><a name="Reads"></a>Reads</h2>
+[Master's Thesis](http://hdl.handle.net/1959.14/1185049) (MQU)
+
 <h2><a name="Highlights"></a>Research Highlights</h2>
 <h4><a name="mfh"></a>Mass Formation History</h4>
 <div class="resGrid">
@@ -82,9 +87,6 @@ Specifically, I have been developing and analysing dynamical models of external,
     <div class="grid-row" style="grid-column: 2; grid-row: 1; text-align: left;">The first application of using the full observed <MATH>2D</MATH> stellar mass-to-light ratio <MATH>(<msub><mi>M</mi><mn>&#9733;</mn></msub>/L)</MATH> map to derive an accurate projected mass for a dynamical model. The figure shows the original luminosity density model (dashed blue, constrained by the observed photometry), the resulting mass density after scaling by the measured <MATH><msub><mi>M</mi><mn>&#9733;</mn></msub>/L</MATH> (solid black), and the final mass density model (solid red). This procedure ensures that the dynamical model is <i>a priori</i> consistent with the stellar populations. Taken from 
 <a href="https://ui.adsabs.harvard.edu/abs/2019MNRAS.487.3776P/abstract">Poci et al. (2019)</a>.</div>
 </div>
-
-<h2><a name="Reads"></a>Reads</h2>
-[Master's Thesis](http://hdl.handle.net/1959.14/1185049) (MQU)
 
 <div class="navbar">
   <div class="navbar-inner">
