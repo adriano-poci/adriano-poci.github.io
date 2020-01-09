@@ -1,1 +1,1 @@
-* Line break in `Research`
+* Moved image tags into paragraph
