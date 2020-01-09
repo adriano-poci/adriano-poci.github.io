@@ -8,10 +8,11 @@ description: Adriano Poci's research
 
 ## <u>Current Research</u>
 
-Currently I am working on developing a self-consistent comprehensive galaxy formation model that combines triaxial orbit-superposition Schwarzschild dynamical models with full-spectral-fitting stellar-population analyses. The combination provides unprecidented archeological constraints on the formation and evoluion of nearby galaxies. Not only does this method bridge the once-independent field of stellar populations and stellar kinematics, but there is a heavy emphasis on maintaining self-consistency (for instance, see earlier research below).   
-A first application of this methodology was published in [Poci et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019MNRAS.487.3776P/abstract). I am now working on extending and applying this model to data from the [Fornax3D survey](http://www.na.astro.it/Fornax3D/Fornax3D/Welcome.html).
+Currently I am working on developing a self-consistent comprehensive galaxy formation model that combines triaxial orbit-superposition Schwarzschild dynamical models with full-spectral-fitting stellar-population analyses. The combination provides unprecidented archeological constraints on the formation and evoluion of nearby galaxies. Not only does this method bridge the once-independent field of stellar populations and stellar kinematics, but there is a heavy emphasis on maintaining self-consistency (for instance, see earlier research below). A first application of this methodology was published in [Poci et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019MNRAS.487.3776P/abstract). I am now working on extending and applying this model to data from the [Fornax3D survey](http://www.na.astro.it/Fornax3D/Fornax3D/Welcome.html).
 
 ## Past Research
+
+### Jeans Dynamical Modeling
 
 Earlier work was focused on investigating the impact of including the derived stellar mass-to-light ratio <MATH>(<msub><mi>M</mi><mn>&#9733;</mn></msub>/L)</MATH> into dynamical models, in order to relax the assumption of a spatially-constant <MATH><msub><mi>M</mi><mn>&#9733;</mn></msub>/L</MATH> of most previous implementations. This work used the Jeans Anisotropic Model ([JAM](http://www-astro.physics.ox.ac.uk/~mxc/software/); [Cappellari, 2008](https://ui.adsabs.harvard.edu/abs/2008MNRAS.390...71C/abstract)).   
 The results of that work were two-fold;

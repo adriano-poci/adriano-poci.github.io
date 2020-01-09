@@ -1,1 +1,1 @@
-* Decreases total slopes width
+* Improved layout
