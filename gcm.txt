@@ -1,1 +1,1 @@
-* Use `clear=all` tag
+* Decreases total slopes width
