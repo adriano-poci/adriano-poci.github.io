@@ -14,7 +14,7 @@ Currently I am working on developing a self-consistent comprehensive galaxy form
 
 ### Jeans Dynamical Modeling
 
-Earlier work was focused on investigating the impact of including the derived stellar mass-to-light ratio <MATH>(<msub><mi>M</mi><mn>&#9733;</mn></msub>/L)</MATH> into dynamical models, in order to relax the assumption of a spatially-constant <MATH><msub><mi>M</mi><mn>&#9733;</mn></msub>/L</MATH> of most previous implementations. This work used the Jeans Anisotropic Model ([JAM](http://www-astro.physics.ox.ac.uk/~mxc/software/); [Cappellari, 2008](https://ui.adsabs.harvard.edu/abs/2008MNRAS.390...71C/abstract)).   
+Earlier work was focused on investigating the impact of including the derived stellar mass-to-light ratio <MATH>(M<sub>&#9733;</sub>/L)</MATH> into dynamical models, in order to relax the assumption of a spatially-constant <MATH>M<sub>&#9733;</sub>/L</MATH> of most previous implementations. This work used the Jeans Anisotropic Model ([JAM](http://www-astro.physics.ox.ac.uk/~mxc/software/); [Cappellari, 2008](https://ui.adsabs.harvard.edu/abs/2008MNRAS.390...71C/abstract)).   
 The results of that work were two-fold;
 
 <style>
