@@ -6,7 +6,7 @@ keywords: adriano, poci, galaxy, dynamics, spectroscopy, stellar populations
 ---
 
 I am a PhD student at Maquarie University in Sydney, Australia. I am currently completing my research at the European Southern Observatory ([ESO](http://eso.org)) headquarters in Garching, Germany. My research interests are centred around galaxy formation, and in particular the interplay between all observable properties of the stars; namely their motions, compositions, and ages.  
-Specifically, I have been developing and analysing dynamical models of external, spatially-resolved galaxies that include treatment of the stellar populations to ensure self-consistency.
+Specifically, I have been developing and analysing dynamical models of external, spatially-resolved galaxies that include treatment of the stellar populations to garner a more complete picture of how and when these galaxies formed in a wholly self-consistent manner.
 
 ---
 
