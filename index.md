@@ -1,12 +1,13 @@
 ---
 layout: frontpage
 title: Adriano Poci
-description: I am a PhD student at Maquarie University, in Sydney, Australia. I am currently completing my studies at the European Southern Observatory (ESO) headquarters in Garching, Germany.
+description: I am currently undertaking a PhD in astronomy and astrophysics, split between Maquarie University in Sydney, Australia and the European Southern Observatory (ESO) headquarters in Garching, Germany. I am now completeing the final year at Macquarie.
 keywords: adriano, poci, galaxy, dynamics, spectroscopy, stellar populations
 ---
 
-I am a PhD student at Maquarie University in Sydney, Australia. I am currently completing my research at the European Southern Observatory ([ESO](http://eso.org)) headquarters in Garching, Germany. My research interests are centred around galaxy formation, and in particular the interplay between all observable properties of the stars; namely their motions, compositions, and ages.  
-Specifically, I have been developing and analysing dynamical models of external, spatially-resolved galaxies that include treatment of the stellar populations to garner a more complete picture of how and when these galaxies formed in a wholly self-consistent manner.
+I am currently undertaking a PhD in astronomy and astrophysics, split between [Maquarie University](https://www.mq.edu.au/) in Sydney, Australia and the European Southern Observatory ([ESO](http://eso.org)) headquarters in Garching, Germany. I am now completing the final year at Macquarie.
+My research interests are centred around galaxy formation, and in particular the interplay between all observable properties of the stars; namely their motions, compositions, and ages.  
+Specifically, I have been developing and analysing dynamical (Schwarzschild) models of external, spatially-resolved galaxies that include treatment of the stellar populations to garner a more complete picture of how and when these galaxies formed in a wholly self-consistent manner.
 
 ---
 
@@ -51,14 +52,13 @@ Specifically, I have been developing and analysing dynamical models of external,
     <div class="grid-row" style="grid-column: 2; grid-row: 1; text-align: left;">
         <ul style="list-style: none; padding-left: 0; margin: 0; padding: 0;">
             <li><a href="mailto:adriano.poci@students.mq.edu.au">adriano.poci@students.mq.edu.au</a></li>
-            <li><a href="mailto:adriano.poci@eso.org">adriano.poci@eso.org</a></li>
+            <!-- <li><a href="mailto:adriano.poci@eso.org">adriano.poci@eso.org</a></li> -->
         </ul>
     </div>
     <div class="grid-row" style="grid-column: 1; grid-row: 2; text-align: right;">Current Affiliation(s)</div>
     <div class="grid-row" style="grid-column: 2; grid-row: 2; text-align: left;">
         <ul style="list-style: none; padding-left: 0; margin: 0; padding: 0;">
             <li><a href="https://researchers.mq.edu.au/en/persons/adriano-poci">Macquarie University</a></li>
-            <li><a href="https://www.eso.org/sci/activities/garching/research_area_4.html">ESO</a></li>
         </ul>
     </div>
     <div class="grid-row" style="grid-column: 1; grid-row: 3; text-align: right;">ORCID</div>
@@ -69,6 +69,14 @@ Specifically, I have been developing and analysing dynamical models of external,
 </div>
 
 ---
+<div class="grid-row" style="grid-column: 1; grid-row: 2; text-align: right;">Past Affiliations</div>
+<div class="grid-row" style="grid-column: 2; grid-row: 2; text-align: left;">
+    <ul style="list-style: none; padding-left: 0; margin: 0; padding: 0;">
+        <li><a href="https://www.eso.org/sci/activities/garching/research_area_4.html">ESO</a></li>
+    </ul>
+</div>
+---
+
 
 <h2><a name="Reads"></a>Reads</h2>
 [Master's Thesis](http://hdl.handle.net/1959.14/1185049) (MQU)
