@@ -6,6 +6,7 @@ keywords: adriano, poci, galaxy, dynamics, spectroscopy, stellar populations
 ---
 
 I am currently undertaking a PhD in astronomy and astrophysics, split between [Maquarie University](https://www.mq.edu.au/) in Sydney, Australia and the European Southern Observatory ([ESO](http://eso.org)) headquarters in Garching, Germany. I am now completing the final year at Macquarie.
+
 My research interests are centred around galaxy formation, and in particular the interplay between all observable properties of the stars; namely their motions, compositions, and ages.  
 Specifically, I have been developing and analysing dynamical (Schwarzschild) models of external, spatially-resolved galaxies that include treatment of the stellar populations to garner a more complete picture of how and when these galaxies formed in a wholly self-consistent manner.
 
