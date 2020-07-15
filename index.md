@@ -69,11 +69,13 @@ Specifically, I have been developing and analysing dynamical (Schwarzschild) mod
 </div>
 
 ---
-<div class="grid-row" style="grid-column: 1; grid-row: 1; text-align: right;">Past Affiliations</div>
-<div class="grid-row" style="grid-column: 2; grid-row: 1; text-align: left;">
-    <ul style="list-style: none; padding-left: 0; margin: 0; padding: 0;">
-        <li><a href="https://www.eso.org/sci/activities/garching/research_area_4.html">ESO</a></li>
-    </ul>
+<div class="contactGrid">
+    <div class="grid-row" style="grid-column: 1; grid-row: 1; text-align: right;">Past Affiliations</div>
+    <div class="grid-row" style="grid-column: 2; grid-row: 1; text-align: left;">
+        <ul style="list-style: none; padding-left: 0; margin: 0; padding: 0;">
+            <li><a href="https://www.eso.org/sci/activities/garching/research_area_4.html">ESO</a></li>
+        </ul>
+    </div>
 </div>
 ---
 
