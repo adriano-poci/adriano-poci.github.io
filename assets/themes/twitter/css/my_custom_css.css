@@ -20,13 +20,13 @@ a {
 }
 
 a:hover {
-    color: #013220;
-    background-color: #151515;
+    color: black;
+    background-color: grey;
     text-decoration: none;
 }
 
 a img {
-    border: solid 2px white;
+    border: solid 1px white;
 }
 
 a:hover img {
@@ -63,16 +63,16 @@ td.right {
 
 
 h1 {
-    color: #003300;
+    color: #00cc00;
 }
 h2 {
-    color: #00331a;
+    color: #00ff00;
 }
 h1 {
-    color: #003333;
+    color: #33ff33;
 }
 h1 {
-    color: #001a33;
+    color: #66ff66;
 }
 
 .danger {
