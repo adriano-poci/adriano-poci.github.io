@@ -6,19 +6,22 @@ code {
   border: 0px solid white;
 }
 
-body {background-color: grey;}
+body {
+    background-color: #151515;
+    color: #E7E7E7
+}
 
 a code {
-    color: #0066ff;
+    color: #00ccff;
 }
 
 a {
-    color: #0066ff;
+    color: #00ccff;
 }
 
 a:hover {
     color: #013220;
-    background-color: #e3e4fa;
+    background-color: #151515;
     text-decoration: none;
 }
 
@@ -28,9 +31,9 @@ a img {
 
 a:hover img {
     color: #013220;
-    background-color: #e3e4fa;
+    background-color: #151515;
     text-decoration: none;
-    border: solid 2px #e3e4fa;
+    border: solid 2px #151515;
 }
 
 p.center {
