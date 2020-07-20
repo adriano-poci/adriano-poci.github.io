@@ -37,7 +37,7 @@ The results of that work were two-fold;
 }
 </style>
 <h5><a name="massMGE"></a>&alpha;<sub>dyn.</sub> Mismatch</h5>
-<a href="{{ BASE_PATH }}/assets/plMlMl.png"><img src="{{ BASE_PATH }}/assets/plMlMl.png" style="float: left; width: 42%; margin-right: 1%; margin-bottom: 0.5em;" /></a>
+<a href="{{ BASE_PATH }}/assets/plMlMl.png"><img src="{{ BASE_PATH }}/assets/plMlMl.png" style="float: left; width: 41%; margin-right: 1%; margin-bottom: 0.5em;" /></a>
 <a href="{{ BASE_PATH }}/assets/cappMlMlb.png"><img src="{{ BASE_PATH }}/assets/cappMlMlb.png" style="float: left; width: 33%; margin-right: 1%; margin-bottom: 0.5em;" /></a>
 <p>Testing the impact of including a spatially-varying <MATH>M<sub>&#9733;</sub>/L</MATH> on the inferred dynamical mismatch parameter, <MATH>&alpha;<sub>dyn.</sub></MATH>. This parameter measures the offset between the dynamically-inferred and stellar-population-inferred galaxy mass, in effect constraining the accuracy of the assumed stellar Initial Mass Function (IMF). The case with the spatially-varying <MATH>M<sub>&#9733;</sub>/L</MATH> from my work is shown on the left, while the original result, for a spatially-constant <MATH>M<sub>&#9733;</sub>/L</MATH>, is shown on the right (<a href="https://ui.adsabs.harvard.edu/abs/2012Natur.484..485C/abstract">Cappellari et al., 2012</a>). This result shows that, while the dynamical models with a spatially-varying <MATH>M<sub>&#9733;</sub>/L</MATH> exhibit a systematic offset to lower <MATH>&alpha;<sub>dyn.</sub></MATH> values, importantly the non-linear trend with mass remains. This was the main goal of my <a href="http://hdl.handle.net/1959.14/1185049">Master's Thesis</a>.</p>
 <h5><a name="bhc"></a>Total-Mass Density Profile Slopes</h5>
