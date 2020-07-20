@@ -4,8 +4,6 @@ title: Research
 description: Adriano Poci's research
 ---
 
-<hr style="border:1.5px solid gray">
-
 ### Current Research
 
 Currently I am working on developing a self-consistent comprehensive galaxy formation model that combines triaxial orbit-superposition Schwarzschild dynamical models with full-spectral-fitting stellar-population analyses. The combination provides unprecidented archeological constraints on the formation and evolution of nearby galaxies. Not only does this method bridge the once-independent field of stellar populations and stellar kinematics, but there is a heavy emphasis on maintaining self-consistency (for instance, see earlier research below). A first application of this methodology was published in [Poci et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019MNRAS.487.3776P/abstract). I am now working on extending and applying this model to data from the [Fornax3D survey](http://www.na.astro.it/Fornax3D/Fornax3D/Welcome.html).
