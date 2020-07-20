@@ -7,7 +7,7 @@ keywords: adriano, poci, galaxy, dynamics, spectroscopy, stellar populations
 
 I am currently undertaking a PhD in astronomy and astrophysics, split between [Maquarie University](https://www.mq.edu.au/) in Sydney, Australia and the European Southern Observatory ([ESO](http://eso.org)) headquarters in Garching, Germany. I am now completing the final year at Macquarie.
 
-My research interests are centred around galaxy formation, and in particular the interplay between all observable properties of the stars; namely their motions, compositions, and ages.  
+My research interests are centred around galaxy formation, and in particular the interplay between all observable properties of the stars; namely their motions, compositions, and ages.
 Specifically, I have been developing and analysing dynamical (Schwarzschild) models of external, spatially-resolved galaxies that include treatment of the stellar populations to garner a more complete picture of how and when these galaxies formed in a wholly self-consistent manner.
 
 ---
@@ -63,7 +63,7 @@ Specifically, I have been developing and analysing dynamical (Schwarzschild) mod
         </ul>
     </div>
     <div class="grid-row" style="grid-column: 1; grid-row: 3; text-align: right;">ORCiD</div>
-    <div class="grid-row" style="grid-column: 2; grid-row: 3;">
+    <div class="grid-row" style="grid-column: 2; grid-row: 3; text-align: left;">
         <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="0000-0002-5422-7441" href="https://orcid.org/0000-0002-5422-7441" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;">0000-0002-5422-7441<img src="{{ BASE_PATH }}/assets/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCiD icon"/></a></div>
     </div>
     <div class="contactPic"><img src="{{ BASE_PATH }}/assets/poci.png" height="50px" border="1px"/></div>
