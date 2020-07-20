@@ -29,12 +29,12 @@ a:hover {
     border: solid 1px white;
 } */
 
-a:hover img {
+/* a:hover img {
     color: #013220;
     background-color: #151515;
     text-decoration: none;
     border: solid 2px #151515;
-}
+} */
 
 p.center {
     text-align: center;
