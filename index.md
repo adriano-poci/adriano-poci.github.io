@@ -10,7 +10,7 @@ I am currently undertaking a PhD in astronomy and astrophysics, split between [M
 My research interests are centred around galaxy formation, and in particular the interplay between all observable properties of the stars; namely their motions, compositions, and ages.
 Specifically, I have been developing and analysing dynamical (Schwarzschild) models of external, spatially-resolved galaxies that include treatment of the stellar populations to garner a more complete picture of how and when these galaxies formed in a wholly self-consistent manner.
 
-<hr style="border:1.5px solid black">
+<hr style="border:0.75px solid black">
 
 <style>
 .contactGrid {
@@ -69,7 +69,7 @@ Specifically, I have been developing and analysing dynamical (Schwarzschild) mod
     <div class="contactPic"><img src="{{ BASE_PATH }}/assets/poci.png" height="50px" border="1px"/></div>
 </div>
 
-<hr style="border:1.5px solid black">
+<hr style="border:0.75px solid black">
 
 <div class="contactGrid">
     <div class="grid-row" style="grid-column: 1; grid-row: 1; text-align: right;">Past Affiliations</div>
@@ -81,12 +81,12 @@ Specifically, I have been developing and analysing dynamical (Schwarzschild) mod
     <div class="grid-row" style="grid-column: 3; grid-row: 1; text-align: right;">2019-2020</div>
 </div>
 
-<hr style="border:1.5px solid gray">
+<hr style="border:2.0px solid gray">
 
 <h2><a name="Reads"></a>Reads</h2>
 [Master's Thesis](http://hdl.handle.net/1959.14/1185049) (MQU)
 
-<hr style="border:1.5px solid black">
+<hr style="border:0.75px solid black">
 
 <h2><a name="Highlights"></a>Research Highlights</h2>
 <h4><a name="mfh"></a>Mass Formation History</h4>
@@ -103,7 +103,7 @@ Specifically, I have been developing and analysing dynamical (Schwarzschild) mod
 <a href="https://ui.adsabs.harvard.edu/abs/2019MNRAS.487.3776P/abstract">Poci et al. (2019)</a>.</div>
 </div>
 
-<hr style="border:1.5px solid black">
+<hr style="border:0.75px solid black">
 
 <div class="navbar">
   <div class="navbar-inner">
