@@ -25,9 +25,9 @@ a:hover {
     text-decoration: none;
 }
 
-a img {
+/* a img {
     border: solid 1px white;
-}
+} */
 
 a:hover img {
     color: #013220;
@@ -63,16 +63,16 @@ td.right {
 
 
 h1 {
-    color: #00cc00;
-}
-h2 {
-    color: #00ff00;
-}
-h1 {
     color: #33ff33;
 }
-h1 {
+h2 {
     color: #66ff66;
+}
+h3 {
+    color: #99ff99;
+}
+h4 {
+    color: #ccffcc;
 }
 
 .danger {
