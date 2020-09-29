@@ -64,7 +64,7 @@ Specifically, I have been developing and analysing dynamical (Schwarzschild) mod
     </div>
     <div class="grid-row" style="grid-column: 1; grid-row: 3; text-align: right;">ORCiD</div>
     <div class="grid-row" style="grid-column: 2; grid-row: 3; text-align: left;">
-        <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="0000-0002-5422-7441" href="https://orcid.org/0000-0002-5422-7441" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;">0000-0002-5422-7441<img src="{{ BASE_PATH }}/assets/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCiD icon"/></a></div>
+    <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="0000-0002-5422-7441" href="https://orcid.org/0000-0002-5422-7441" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">0000-0002-5422-7441</a></div>
     </div>
     <div class="contactPic"><img src="{{ BASE_PATH }}/assets/poci.png" height="50px" border="1px"/></div>
 </div>
