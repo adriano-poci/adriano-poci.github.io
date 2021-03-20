@@ -89,18 +89,23 @@ Specifically, I have been developing and analysing dynamical (Schwarzschild) mod
 <hr style="border:0.75px solid black">
 
 <h2><a name="Highlights"></a>Research Highlights</h2>
-<h4><a name="mfh"></a>Mass Formation History</h4>
+<h4><a name="mfh"></a>Chemo-Dynamical Correlations</h4>
 <div class="resGrid">
-    <div class="resPic"><a href="{{ BASE_PATH }}/assets/dispSBGrid_z_R_195_age06_metal04_azReg0.29_0.14.png" title="MFH"><img src="{{ BASE_PATH }}/assets/dispSBGrid_z_R_195_age06_metal04_azReg0.29_0.14.png" height="50px" /></a></div>
-    <div class="grid-row" style="grid-column: 2; grid-row: 1; text-align: left;">The "mass formation history" for the nearby lenticular galaxy NGC 3115. The figure shows radial profiles of the vertical component of the intrinsic stellar velocity dispersion, <MATH>&sigma;<sub>z</sub></MATH>, in sub-panels organised by the stellar age <MATH>t</MATH> (horizontally), and stellar metallicity <MATH>[Z/H]</MATH> (vertically). The mass formation history illustrates <em>where</em> and <em>when</em> the mass in the present-day galaxy formed. It is both a star-formation history, in that it can determine how much stellar mass formed <i>in situ</i>, and also an accretion history, in that it can determine which stars formed <i>ex situ</i> and where they are now. Taken from
-<a href="https://ui.adsabs.harvard.edu/abs/2019MNRAS.487.3776P/abstract">Poci et al. (2019)</a>.</div>
+    <div class="resPic"><a href="{{ BASE_PATH }}/assets/cosmo_disp_cutFull_z_Age.png" title="AVR"><img src="{{ BASE_PATH }}/assets/cosmo_disp_cutFull_z_Age.png" height="50px" /></a></div>
+    <div class="grid-row" style="grid-column: 2; grid-row: 1; text-align: left;">The relation between the vertical component of the intrinsic stellar velocity dispersion, <MATH>&sigma;<sub>z</sub></MATH>, and the stellar age <MATH>t</MATH> (or equivalently, redshift of formation, <MATH>z</MATH>). The small sample of external galaxies which we have archaeologically measured this relation for the first time are shown by the star symbols. Literature measurements of the Milky-Way galaxy are shown as black dots and crosses. Direct gas measurements from the literature at various redshifts are shown by the box-whisker data. This figure shows that stars are created on increasingly disk-like orbits over cosmic time, with less motion out of the plane. See
+<a href="https://ui.adsabs.harvard.edu/abs/2021arXiv210202449P/abstract">Poci et al. (2021)</a> for details, and literature references.</div>
+</div>
+<div class="resGrid">
+    <div class="resPic"><a href="{{ BASE_PATH }}/assets/fixedSPDisp_jet.png" title="ZVR"><img src="{{ BASE_PATH }}/assets/fixedSPDisp_jet.png" height="50px" /></a></div>
+    <div class="grid-row" style="grid-column: 2; grid-row: 1; text-align: left;">For the same for galaxies as above, this figure shows similar relations of <MATH>&sigma;<sub>z</sub></MATH>, but in this case binned by different stellar population properties. <i>Left:</i> the age--velocity dispersion relation, as above, except separated by different stellar metallicities. <i>Right:</i> the stellar metallicity--<MATH>&sigma;<sub>z</sub></MATH> relation, separated by different stellar ages. This figure shows that when controlling for metallicity, the stellar AVR (as pictured above) becomes a dramatically weaker correlation Conversely, regardless of the stellar age, the stellar metallicity seems to correlate quite strongly with <MATH>&sigma;<sub>z</sub></MATH>, implying that metallicity is in fact a dominant driver compared to age. Taken from
+<a href="https://ui.adsabs.harvard.edu/abs/2021arXiv210202449P/abstract">Poci et al. (2021)</a>.</div>
 </div>
 
 <h4><a name="massMGE"></a>Mass-Density Model</h4>
 <div class="resGrid">
-    <div class="resPic"><a href="{{ BASE_PATH }}/assets/NGC3115-MGEPlot-110.00.png" title="massMGE"><img src="{{ BASE_PATH }}/assets/NGC3115-MGEPlot-110.00.png" height="50px" /></a></div>
-    <div class="grid-row" style="grid-column: 2; grid-row: 1; text-align: left;">The first application of using the full observed <MATH>2D</MATH> stellar mass-to-light ratio <MATH>(M<sub>&#9733;</sub>/L)</MATH> map to derive an accurate projected mass for a dynamical model. The figure shows the original luminosity density model (dashed blue, constrained by the observed photometry), the resulting mass density after scaling by the measured <MATH>M<sub>&#9733;</sub>/L</MATH> (solid black), and the final mass density model (solid red). This procedure ensures that the dynamical model is <i>a priori</i> consistent with the stellar populations. Taken from
-<a href="https://ui.adsabs.harvard.edu/abs/2019MNRAS.487.3776P/abstract">Poci et al. (2019)</a>.</div>
+    <div class="resPic"><a href="{{ BASE_PATH }}/assets/FCC170-MGEPlot-100.00.png" title="massMGE"><img src="{{ BASE_PATH }}/assets/FCC170-MGEPlot-100.00.png" height="50px" /></a></div>
+    <div class="grid-row" style="grid-column: 2; grid-row: 1; text-align: left;">Modelling the projected mass surface density from the observed luminosity surface density (surface brightness) by taking into account the measured <MATH>2D</MATH> stellar mass-to-light ratio <MATH>(M<sub>&#9733;</sub>/L)</MATH>. <i>Top:</i> the original luminosity surface density model (<i>blue</i>), the resulting mass surface density after scaling by the measured <MATH>M<sub>&#9733;</sub>/L</MATH> (<i>black</i>), and the final mass surface density model (<i>red</i>). <i>Bottom:</i> the resolved <MATH>M<sub>&#9733;</sub>/L</MATH>, normalised by the global average value, <MATH>&#9001;M<sub>&#9733;</sub>/L&#9002;</MATH>. This panel shows the differences in the shape between the mass and luminosity surface densities. It also highlights the regions which are inconsistent with the average value (any red and blue regions). Using the mass surface density model generated in this way ensures that the dynamical model is <i>a priori</i> consistent with the stellar populations. Taken from
+<a href="https://ui.adsabs.harvard.edu/abs/2021arXiv210202449P/abstract">Poci et al. (2021)</a>.</div>
 </div>
 
 <hr style="border:0.75px solid black">
