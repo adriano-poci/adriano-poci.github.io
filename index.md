@@ -83,8 +83,7 @@ Specifically, I have been developing and analysing dynamical (Schwarzschild) mod
     <div class="grid-row" style="grid-column: 3; grid-row: 1; text-align: right;">2019-2020</div>
 </div>
 
-<hr style="border:2.0px solid black">
-<hr style="border:2.0px solid black">
+<hr style="border:3.0px solid black">
 
 <h2><a name="Reads"></a>Reads</h2>
 [Master's Thesis](http://hdl.handle.net/1959.14/1185049) (MQU)
