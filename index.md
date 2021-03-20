@@ -5,7 +5,8 @@ description: I am currently undertaking a PhD in astronomy and astrophysics, spl
 keywords: adriano, poci, galaxy, dynamics, spectroscopy, stellar populations
 ---
 
-I am currently undertaking a PhD in astronomy and astrophysics, split between [Maquarie University](https://www.mq.edu.au/) in Sydney, Australia and the European Southern Observatory ([ESO](http://eso.org)) headquarters in Garching, Germany. I am now completing the final year at Macquarie.
+I am a post-doctoral research assistant at Durham University. I am working on using orbital dynamical models to measure the distribution of mass in galaxies which are acting as strong lenses. This provides two independent constraints, which can provide insight into the accuracy of these approaches.
+<!-- I am currently undertaking a PhD in astronomy and astrophysics, split between [Maquarie University](https://www.mq.edu.au/) in Sydney, Australia and the European Southern Observatory ([ESO](http://eso.org)) headquarters in Garching, Germany. I am now completing the final year at Macquarie. -->
 
 My research interests are centred around galaxy formation, and in particular the interplay between all observable properties of the stars; namely their motions, compositions, and ages.
 Specifically, I have been developing and analysing dynamical (Schwarzschild) models of external, spatially-resolved galaxies that include treatment of the stellar populations to garner a more complete picture of how and when these galaxies formed in a wholly self-consistent manner.
@@ -52,13 +53,14 @@ Specifically, I have been developing and analysing dynamical (Schwarzschild) mod
     <div class="grid-row" style="grid-column: 1; grid-row: 1; text-align: right;">Email</div>
     <div class="grid-row" style="grid-column: 2; grid-row: 1; text-align: left;">
         <ul style="list-style: none; padding-left: 0; margin: 0; padding: 0;">
-            <li><a href="mailto:adriano.poci@students.mq.edu.au">adriano.poci@students.mq.edu.au</a></li>
-            <!-- <li><a href="mailto:adriano.poci@eso.org">adriano.poci@eso.org</a></li> -->
+            <li><a href="mailto:adriano.poci@durham.ac.uk">adriano.poci@durham.ac.uk</a></li>
+            <!-- <li><a href="mailto:adriano.poci@students.mq.edu.au">adriano.poci@students.mq.edu.au</a></li> -->
         </ul>
     </div>
     <div class="grid-row" style="grid-column: 1; grid-row: 2; text-align: right;">Current Affiliation(s)</div>
     <div class="grid-row" style="grid-column: 2; grid-row: 2; text-align: left;">
         <ul style="list-style: none; padding-left: 0; margin: 0; padding: 0;">
+            <li><a href="https://www.dur.ac.uk/directory/profile/?id=19882">Durham University</a></li>
             <li><a href="https://researchers.mq.edu.au/en/persons/adriano-poci">Macquarie University</a></li>
         </ul>
     </div>
@@ -82,6 +84,7 @@ Specifically, I have been developing and analysing dynamical (Schwarzschild) mod
 </div>
 
 <hr style="border:2.0px solid black">
+<hr style="border:2.0px solid black">
 
 <h2><a name="Reads"></a>Reads</h2>
 [Master's Thesis](http://hdl.handle.net/1959.14/1185049) (MQU)
@@ -97,7 +100,7 @@ Specifically, I have been developing and analysing dynamical (Schwarzschild) mod
 </div>
 <div class="resGrid">
     <div class="resPic"><a href="{{ BASE_PATH }}/assets/fixedSPDisp_jet.png" title="ZVR"><img src="{{ BASE_PATH }}/assets/fixedSPDisp_jet.png" height="10px" /></a></div>
-    <div class="grid-row" style="grid-column: 2; grid-row: 1; text-align: left;">For the same for galaxies as above, this figure shows similar relations of <MATH>&sigma;<sub>z</sub></MATH>, but in this case binned by different stellar population properties. <i>Left:</i> the age&#8211;velocity dispersion relation, as above, except separated by different stellar metallicities. <i>Right:</i> the stellar metallicity&#8211;<MATH>&sigma;<sub>z</sub></MATH> relation, separated by different stellar ages. In each panel, the correlation coefficient <MATH>r</MATH> and <MATH>p</MATH>-value are shown to indicate the strength and significance of the trend. This figure shows that when controlling for metallicity, the stellar age&#8212;velocity dispersion relation (contrary to above) becomes a dramatically weaker correlation. Conversely, independent of the stellar age, the stellar metallicity seems to correlate quite strongly with <MATH>&sigma;<sub>z</sub></MATH>, implying that metallicity is in fact a dominant driver compared to age. Taken from
+    <div class="grid-row" style="grid-column: 2; grid-row: 1; text-align: left;">For the same for galaxies as above, this figure shows similar relations of <MATH>&sigma;<sub>z</sub></MATH>, but in this case binned by different stellar population properties. <i>Left:</i> the age&#8211;velocity dispersion relation, as above, except separated by different stellar metallicities. <i>Right:</i> the stellar metallicity&#8211;<MATH>&sigma;<sub>z</sub></MATH> relation, separated by different stellar ages. In each panel, the correlation coefficient <MATH>r</MATH> and <MATH>p</MATH>-value are shown to indicate the strength and significance of the trend. This figure shows that when controlling for metallicity, the stellar age&#8211;velocity dispersion relation (contrary to above) becomes a dramatically weaker correlation. Conversely, independent of the stellar age, the stellar metallicity seems to correlate quite strongly with <MATH>&sigma;<sub>z</sub></MATH>, implying that metallicity is in fact a dominant driver compared to age. Taken from
 <a href="https://ui.adsabs.harvard.edu/abs/2021arXiv210202449P/abstract">Poci et al. (2021)</a>.</div>
 </div>
 
