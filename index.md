@@ -99,7 +99,7 @@ Specifically, I have been developing and analysing dynamical (Schwarzschild) mod
 <a href="https://ui.adsabs.harvard.edu/abs/2021arXiv210202449P/abstract">Poci et al. (2021)</a> for details, and literature references.</div>
 </div>
 <div class="resGrid">
-    <div class="resPic"><a href="{{ BASE_PATH }}/assets/fixedSPDisp_jet.png" title="ZVR"><img src="{{ BASE_PATH }}/assets/fixedSPDisp_jet.png" height="10px" /></a></div>
+    <div class="resPic"><a href="{{ BASE_PATH }}/assets/fixedSPDisp_jet.png" title="ZVR"><img src="{{ BASE_PATH }}/assets/fixedSPDisp_jet.png" width="10%" /></a></div>
     <div class="grid-row" style="grid-column: 2; grid-row: 1; text-align: left;">For the same for galaxies as above, this figure shows similar relations of <MATH>&sigma;<sub>z</sub></MATH>, but in this case binned by different stellar population properties. <i>Left:</i> the age&#8211;velocity dispersion relation, as above, except separated by different stellar metallicities. <i>Right:</i> the stellar metallicity&#8211;<MATH>&sigma;<sub>z</sub></MATH> relation, separated by different stellar ages. In each panel, the correlation coefficient <MATH>r</MATH> and <MATH>p</MATH>-value are shown to indicate the strength and significance of the trend. This figure shows that when controlling for metallicity, the stellar age&#8211;velocity dispersion relation (contrary to above) becomes a dramatically weaker correlation. Conversely, independent of the stellar age, the stellar metallicity seems to correlate quite strongly with <MATH>&sigma;<sub>z</sub></MATH>, implying that metallicity is in fact a dominant driver compared to age. Taken from
 <a href="https://ui.adsabs.harvard.edu/abs/2021arXiv210202449P/abstract">Poci et al. (2021)</a>.</div>
 </div>
