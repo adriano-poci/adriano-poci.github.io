@@ -30,11 +30,11 @@ Specifically, I have been developing and analysing dynamical (Schwarzschild) mod
   grid-template-columns: auto auto;
   grid-column-gap: 15px;
   justify-content: space-between;
+  margin-bottom: 10px;
 }
 
 .resGrid > div {
   text-align: center;
-  margin-bottom: 10px;
 }
 
 .contactPic {
