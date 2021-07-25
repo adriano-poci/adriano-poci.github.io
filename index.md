@@ -27,7 +27,6 @@ Specifically, I have been developing and analysing dynamical (Schwarzschild) mod
 
 .resGrid {
   display: grid;
-  grid-template-columns: auto auto;
   grid-column-gap: 15px;
   justify-content: space-between;
 }
