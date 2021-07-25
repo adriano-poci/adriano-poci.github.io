@@ -62,7 +62,7 @@ Specifically, I have been developing and analysing dynamical (Schwarzschild) mod
     <div class="grid-row" style="grid-column: 1; grid-row: 2; text-align: right;">Current Affiliation(s)</div>
     <div class="grid-row" style="grid-column: 2; grid-row: 2; text-align: left;">
         <ul style="list-style: none; padding-left: 0; margin: 0; padding: 0;">
-            <li><a href="https://www.dur.ac.uk/directory/profile/?id=19882">Durham University</a></li>
+            <li><a href="https://www.durham.ac.uk/staff/adriano-poci/">Durham University</a></li>
             <li><a href="https://researchers.mq.edu.au/en/persons/adriano-poci">Macquarie University</a></li>
         </ul>
     </div>
