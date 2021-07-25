@@ -34,6 +34,7 @@ Specifically, I have been developing and analysing dynamical (Schwarzschild) mod
 
 .resGrid > div {
   text-align: center;
+  margin-bottom: 10px;
 }
 
 .contactPic {
