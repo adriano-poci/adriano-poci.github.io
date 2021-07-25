@@ -43,7 +43,8 @@ Specifically, I have been developing and analysing dynamical (Schwarzschild) mod
 
 .resPic {
   grid-row: 1 / 3;
-  grid-column: 1
+  grid-column: 1;
+  width: 300px
 }
 </style>
 
