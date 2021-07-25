@@ -93,7 +93,7 @@ Specifically, I have been developing and analysing dynamical (Schwarzschild) mod
 <h2><a name="Highlights"></a>Research Highlights</h2>
 <h4><a name="mfh"></a>Chemo-Dynamical Correlations</h4>
 <div class="resGrid">
-    <div class="resPic"><a href="{{ BASE_PATH }}/assets/cosmo_disp_cutFull_z_Age.png" title="AVR"><img src="{{ BASE_PATH }}/assets/cosmo_disp_cutFull_z_Age.png" width="310px" /></a></div>
+    <div class="resPic"><a href="{{ BASE_PATH }}/assets/cosmo_disp_cutFull_z_Age.png" title="AVR"><img src="{{ BASE_PATH }}/assets/cosmo_disp_cutFull_z_Age.png" width="500px" /></a></div>
     <div class="grid-row" style="grid-column: 2; grid-row: 1; text-align: left;">The relation between the vertical component of the intrinsic stellar velocity dispersion of disk-like orbits, <MATH>&sigma;<sub>z</sub><sup>DISK</sup></MATH>, and the stellar age (or equivalently, redshift of formation). The small sample of external galaxies which we have archaeologically measured this relation for the first time are shown by the star symbols. Literature measurements of the Milky-Way galaxy are shown as black dots and crosses. Direct gas measurements from the literature at various redshifts are shown by the box-whisker data. This figure shows that stars are created on increasingly disk-like orbits over cosmic time, with less motion out of the plane. See
 <a href="https://ui.adsabs.harvard.edu/abs/2021arXiv210202449P/abstract">Poci et al. (2021)</a> for details, and literature references.</div>
 </div>
