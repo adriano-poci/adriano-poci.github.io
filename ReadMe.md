@@ -3,7 +3,6 @@ This is the GitHub repository used to create a simple academic website. [The tut
 This tutorial and website are heavily based on the tutorial and website from [Karl Broman](http://kbroman.org).
 
 ---
-
 My parts of this web site are licensed under
 [CC BY](http://creativecommons.org/licenses/by/3.0/).
 
