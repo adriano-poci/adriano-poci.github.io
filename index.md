@@ -129,7 +129,7 @@ Specifically, I have been developing and analysing dynamical (Schwarzschild) mod
       <ul class="nav">
           <li><a href="{{ BASE_PATH }}/assets/cv_Poci.pdf">CV</a></li>
           <li><a href="https://github.com/adriano-poci">GitHub</a></li>
-          <li><a href="mailto:adriano.poci@students.mq.edu.au">Email Me</a></li>
+          <li><a href="mailto:adriano.poci@durham.ac.uk">Email Me</a></li>
       </ul>
   </div>
 </div>
