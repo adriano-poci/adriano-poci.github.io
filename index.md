@@ -1,7 +1,7 @@
 ---
 layout: frontpage
 title: Adriano Poci
-description: I am currently undertaking a PhD in astronomy and astrophysics, split between Maquarie University in Sydney, Australia and the European Southern Observatory (ESO) headquarters in Garching, Germany. I am now completeing the final year at Macquarie.
+description: I am a post-doctoral researcher in astronomy and astrophysicsat Durham University in the United Kingdom.
 keywords: adriano, poci, galaxy, dynamics, spectroscopy, stellar populations
 ---
 
