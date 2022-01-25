@@ -93,8 +93,8 @@ Specifically, I have been developing and analysing dynamical (Schwarzschild) mod
 <hr style="border:3.0px solid black">
 
 <h2><a name="Reads"></a>Reads</h2>
-<a href="{{ BASE_PATH }}/assets/thesis.pdf" title="PhD Thesis">PhD Thesis</a> (MQU)
-[Master's Thesis](http://hdl.handle.net/1959.14/1185049) (MQU)
+<div class="grid-row" text-align: right;"><a href="{{ BASE_PATH }}/assets/thesis.pdf" title="PhD Thesis">PhD Thesis</a> (MQU)</div>
+<div class="grid-row" text-align: right;"><a href="http://hdl.handle.net/1959.14/1185049">Master's Thesis</a> (MQU)</div>
 
 <hr style="border:0.75px solid black">
 
