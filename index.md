@@ -78,16 +78,16 @@ Specifically, I have been developing and analysing dynamical (Schwarzschild) mod
     <div class="grid-row" style="grid-column: 1; grid-row: 1; text-align: right;">Past Affiliations</div>
     <div class="grid-row" style="grid-column: 2; grid-row: 1; text-align: left;">
         <ul style="list-style: none; padding-left: 0; margin: 0; padding: 0;">
-            <li><a href="https://www.eso.org/sci/activities/garching/research_area_4.html">ESO</a></li>
-        </ul>
-    </div>
-    <div class="grid-row" style="grid-column: 3; grid-row: 1; text-align: right;">2019-2020</div>
-    <div class="grid-row" style="grid-column: 2; grid-row: 1; text-align: left;">
-        <ul style="list-style: none; padding-left: 0; margin: 0; padding: 0;">
             <li><a href="https://www.mq.edu.au/research/research-centres-groups-and-facilities/secure-planet/centres/research-centre-for-astronomy-astrophysics-and-astrophotonics/our-people">Macquarie University</a></li>
         </ul>
     </div>
     <div class="grid-row" style="grid-column: 3; grid-row: 1; text-align: right;">2015-2021</div>
+    <div class="grid-row" style="grid-column: 2; grid-row: 2; text-align: left;">
+        <ul style="list-style: none; padding-left: 0; margin: 0; padding: 0;">
+            <li><a href="https://www.eso.org/sci/activities/garching/research_area_4.html">ESO</a></li>
+        </ul>
+    </div>
+    <div class="grid-row" style="grid-column: 3; grid-row: 2; text-align: right;">2019-2020</div>
 </div>
 
 <hr style="border:3.0px solid black">
