@@ -93,7 +93,7 @@ Specifically, I have been developing and analysing dynamical (Schwarzschild) mod
 <hr style="border:3.0px solid black">
 
 <h2><a name="Reads"></a>Reads</h2>
-<li><a href="{{ BASE_PATH }}/assets/fixedSPDisp_jet.png" title="PhD Thesis">PhD Thesis</a></li> (MQU)
+<a href="{{ BASE_PATH }}/assets/fixedSPDisp_jet.png" title="PhD Thesis">PhD Thesis</a> (MQU)
 [Master's Thesis](http://hdl.handle.net/1959.14/1185049) (MQU)
 
 <hr style="border:0.75px solid black">
