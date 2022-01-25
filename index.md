@@ -6,7 +6,7 @@ keywords: adriano, poci, galaxy, dynamics, spectroscopy, stellar populations
 ---
 
 <head>
-    <link rel="shortcut icon" type="image/x-icon" href="{{ BASE_PATH }}/assets/galaxy.ico?">
+     <link rel="shortcut icon" type="image/x-icon" href="galaxy.ico">
 </head>
 
 
