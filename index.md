@@ -5,6 +5,11 @@ description: I am currently undertaking a PhD in astronomy and astrophysics, spl
 keywords: adriano, poci, galaxy, dynamics, spectroscopy, stellar populations
 ---
 
+<head>
+    <link rel="shortcut icon" type="image/x-icon" href=""{{ BASE_PATH }}/assets/favicon.ico?">
+</head>
+
+
 I am a post-doctoral research assistant at Durham University. I am working on using orbital dynamical models to measure the distribution of mass in galaxies which are acting as strong lenses. This provides two independent constraints, which can provide insight into the accuracy of these approaches.
 <!-- I am currently undertaking a PhD in astronomy and astrophysics, split between [Maquarie University](https://www.mq.edu.au/) in Sydney, Australia and the European Southern Observatory ([ESO](http://eso.org)) headquarters in Garching, Germany. I am now completing the final year at Macquarie. -->
 
