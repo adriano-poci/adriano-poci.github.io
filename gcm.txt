@@ -1,1 +1,1 @@
-* Updated `Research Highlights' with lensing results
+* Added lensing results to `Research Highlights`.
