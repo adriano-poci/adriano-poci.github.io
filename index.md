@@ -54,6 +54,28 @@ Specifically, I have been developing and analysing dynamical (Schwarzschild) mod
 }
 </style>
 
+ol
+{
+  /* List will start at 25 + 1 = 26 */
+  /* Remove the 25 if you want to start at 1 */
+  counter-reset: LIST-ITEMS;
+}
+
+li
+{
+  display: inline;
+  padding-right: 0.5em;
+}
+
+li:before
+{
+  content: counter( LIST-ITEMS ) ".";
+  counter-increment: LIST-ITEMS;
+  padding-right: 0.25em;
+  font-style: italic;
+  font-weight: bold;
+}
+
 <h4><a name="contact"></a>Contact</h4>
 <div class="contactGrid">
     <!-- <div class="grid-row" style="grid-column: 1 / 2; grid-row: 1;">Adriano Poci</div> -->
@@ -115,6 +137,13 @@ Specifically, I have been developing and analysing dynamical (Schwarzschild) mod
 <a href="https://ui.adsabs.harvard.edu/abs/2022MNRAS.512.5298P/abstract">Poci et al. (2022)</a> for further discussion.</div>
 </div>
 
+<h4><a name="mfh"></a>Orbital stellar Initial Mass Function (IMF)</h4>
+<div class="resGrid">
+    <div class="resPic"><a href="{{ BASE_PATH }}/assets/circ_imf_xi_3.png" title="AVR"><img src="{{ BASE_PATH }}/assets/circ_imf_xi_3.png" style="width:300px;" /></a></div>
+    <div class="grid-row" style="grid-column: 2; grid-row: 1; text-align: left;">The stellar IMF for a small sample of disk galaxies in the Fornax cluster. The correlations show the average stellar IMF (measured as <MATH>&xi;</MATH>) as a function of the orbital circularity for three dynamical components in each galaxy. These correlations show that <ol><li> the outer hot ('stellar halo'-like) component has a amrkedly lower average IMF in each galaxy, implying a lower relative abundance of low-mass stars <li> the high-angular-momentum ('disk'-like) component and the inner hot ('bulge'-like) component share similar IMF in a given galaxy. <li> the three galaxies show significant variation between themselves.</ol> See
+<a href="https://ui.adsabs.harvard.edu/abs/2022MNRAS.tmp.1495P/abstract">Poci et al. (2022)</a> for details.</div>
+</div>
+
 <h4><a name="mfh"></a>Chemo-Dynamical Correlations</h4>
 <div class="resGrid">
     <div class="resPic"><a href="{{ BASE_PATH }}/assets/cosmo_disp_cutFull_z_Age.png" title="AVR"><img src="{{ BASE_PATH }}/assets/cosmo_disp_cutFull_z_Age.png" style="width:300px;" /></a></div>
@@ -123,11 +152,11 @@ Specifically, I have been developing and analysing dynamical (Schwarzschild) mod
 </div>
 
 
-<div class="resGrid">
+<!-- <div class="resGrid">
     <div class="resPic"><a href="{{ BASE_PATH }}/assets/fixedSPDisp_jet.png" title="ZVR"><img src="{{ BASE_PATH }}/assets/fixedSPDisp_jet.png"  style="width:300px;" /></a></div>
     <div class="grid-row" style="grid-column: 2; grid-row: 1; text-align: left;">For the same four galaxies as above, this figure shows similar relations of <MATH>&sigma;<sub>z</sub></MATH>, but in this case binned by different stellar population properties. <i>Left:</i> the age&#8211;velocity dispersion relation, as above, except separated by different stellar metallicities. <i>Right:</i> the stellar metallicity&#8211;<MATH>&sigma;<sub>z</sub></MATH> relation, separated by different stellar ages. In each panel, the correlation coefficient <MATH>r</MATH> and <MATH>p</MATH>-value are shown to indicate the strength and significance of the trend. This figure shows that when controlling for metallicity, the stellar age&#8211;velocity dispersion relation (contrary to above) becomes a dramatically weaker correlation. Conversely, independent of the stellar age, the stellar metallicity seems to correlate quite strongly with <MATH>&sigma;<sub>z</sub></MATH>, implying that metallicity is in fact a dominant driver compared to age. Taken from
 <a href="https://ui.adsabs.harvard.edu/abs/2021arXiv210202449P/abstract">Poci et al. (2021)</a>.</div>
-</div>
+</div> -->
 
 <h4><a name="massMGE"></a>Mass Surface Density Model</h4>
 <div class="resGrid">
