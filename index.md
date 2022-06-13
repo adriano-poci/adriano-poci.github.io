@@ -52,7 +52,6 @@ Specifically, I have been developing and analysing dynamical (Schwarzschild) mod
   grid-column: 1;
   width: 300px
 }
-</style>
 
 ol
 {
@@ -75,6 +74,8 @@ li:before
   font-style: italic;
   font-weight: bold;
 }
+</style>
+
 
 <h4><a name="contact"></a>Contact</h4>
 <div class="contactGrid">
@@ -140,7 +141,7 @@ li:before
 <h4><a name="mfh"></a>Orbital stellar Initial Mass Function (IMF)</h4>
 <div class="resGrid">
     <div class="resPic"><a href="{{ BASE_PATH }}/assets/circ_imf_xi_3.png" title="xiIMF"><img src="{{ BASE_PATH }}/assets/circ_imf_xi_3.png" style="width:300px;"/></a></div>
-    <div class="grid-row" style="grid-column: 2; grid-row: 1; text-align: left;">The stellar IMF for a small sample of disk galaxies in the Fornax cluster. The correlations show the average stellar IMF (measured as <MATH>&xi;</MATH>) as a function of the orbital circularity for three dynamical components in each galaxy. These correlations show that <ol><li> the outer hot ('stellar halo'-like) component has a amrkedly lower average IMF in each galaxy, implying a lower relative abundance of low-mass stars </li><li> the high-angular-momentum ('disk'-like) component and the inner hot ('bulge'-like) component share similar IMF in a given galaxy. </li><li> the three galaxies show significant variation between themselves.</li></ol> See
+    <div class="grid-row" style="grid-column: 2; grid-row: 1; text-align: left;">The stellar IMF for a small sample of disk galaxies in the Fornax cluster. The correlations show the average stellar IMF (measured as <MATH>&xi;</MATH>) as a function of the orbital circularity for three dynamical components in each galaxy. These correlations show that <ol><li> the outer hot ('stellar halo'-like) component has a markedly lower average IMF in each galaxy, implying a lower relative abundance of low-mass stars </li><li> the high-angular-momentum ('disk'-like) component and the inner hot ('bulge'-like) component share similar IMF in a given galaxy </li><li>and the three galaxies show significant variation between themselves.</li></ol> See
 <a href="https://ui.adsabs.harvard.edu/abs/2022MNRAS.tmp.1495P/abstract">Poci et al. (2022)</a> for details.</div>
 </div>
 
