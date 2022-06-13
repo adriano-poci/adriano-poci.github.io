@@ -131,7 +131,7 @@ li:before
 
 <h4><a name="mfh"></a>Strong Lensing Projection</h4>
 <div class="resGrid">
-    <div class="resPic"><a href="{{ BASE_PATH }}/assets/lensmods.png" title="AVR"><img src="{{ BASE_PATH }}/assets/lensmods.png" style="width:300px;" /></a></div>
+    <div class="resPic"><a href="{{ BASE_PATH }}/assets/lensmods.png" title="lensView"><img src="{{ BASE_PATH }}/assets/lensmods.png" style="width:300px;" /></a></div>
     <div class="grid-row" style="grid-column: 1; grid-row: 3;"><a href="{{ BASE_PATH }}/assets/SNL1_multiProj_1.png" title="AVR"><img src="{{ BASE_PATH }}/assets/SNL1_multiProj_1.png" style="width:300px;" /></a></div>
     <div class="grid-row" style="grid-column: 2; grid-row: 1; text-align: left;">The effect of orientation on models of strong galaxy-galaxy lensing. The figure shows three orientations of a known nearby strong-lens galaxy, SNL-1, and the corresponding stellar kinematics and lensing cross sections. These projections are generating from a Schwarzschild orbit-based dynamical model, fit to the observed stellar kinematics. The result is that simply changing the orientation of the lens galaxy has a substantial impact on the derived cross-section, and may impact subsequent physical inferences. See
 <a href="https://ui.adsabs.harvard.edu/abs/2022MNRAS.512.5298P/abstract">Poci et al. (2022)</a> for further discussion.</div>
@@ -139,9 +139,9 @@ li:before
 
 <h4><a name="mfh"></a>Orbital stellar Initial Mass Function (IMF)</h4>
 <div class="resGrid">
-    <div class="resPic"><a href="{{ BASE_PATH }}/assets/circ_imf_xi_3.png" title="AVR"><img src="{{ BASE_PATH }}/assets/circ_imf_xi_3.png" style="width:300px;" /></a></div>
+    <div class="resPic"><a href="{{ BASE_PATH }}/assets/circ_imf_xi_3.png" title="xiIMF"><img src="{{ BASE_PATH }}/assets/circ_imf_xi_3.png" style="width:300px;"/></a></div>
     <div class="grid-row" style="grid-column: 2; grid-row: 1; text-align: left;">The stellar IMF for a small sample of disk galaxies in the Fornax cluster. The correlations show the average stellar IMF (measured as <MATH>&xi;</MATH>) as a function of the orbital circularity for three dynamical components in each galaxy. These correlations show that <ol><li> the outer hot ('stellar halo'-like) component has a amrkedly lower average IMF in each galaxy, implying a lower relative abundance of low-mass stars </li><li> the high-angular-momentum ('disk'-like) component and the inner hot ('bulge'-like) component share similar IMF in a given galaxy. </li><li> the three galaxies show significant variation between themselves.</li></ol> See
-<a href="https://ui.adsabs.harvard.edu/abs/2022MNRAS.tmp.1495P/abstract">Poci et al. (2022)</a> for details..</div>
+<a href="https://ui.adsabs.harvard.edu/abs/2022MNRAS.tmp.1495P/abstract">Poci et al. (2022)</a> for details.</div>
 </div>
 
 <h4><a name="mfh"></a>Chemo-Dynamical Correlations</h4>
