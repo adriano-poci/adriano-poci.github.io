@@ -110,7 +110,7 @@ Specifically, I have been developing and analysing dynamical (Schwarzschild) mod
 <h4><a name="mfh"></a>Strong Lensing Projection</h4>
 <div class="resGrid">
     <div class="resPic"><a href="{{ BASE_PATH }}/assets/SNL1_multiProj_1.png" title="AVR"><img src="{{ BASE_PATH }}/assets/SNL1_multiProj_1.png" style="width:300px;" /></a></div>
-    <div class="resPic"><a href="{{ BASE_PATH }}/assets/lensmods.png" title="AVR"><img src="{{ BASE_PATH }}/assets/lensmods.png" style="width:300px; grid-row: 3" /></a></div>
+    <div class="grid-row" style="grid-column: 1; grid-row: 3><a href="{{ BASE_PATH }}/assets/lensmods.png" title="AVR"><img src="{{ BASE_PATH }}/assets/lensmods.png" style="width:300px;" /></a></div>
     <div class="grid-row" style="grid-column: 2; grid-row: 1; text-align: left;">The effect of orientation on models of strong galaxy-galaxy lensing. The figure shows three orientations of a known nearby strong-lens galaxy, SNL-1, and the corresponding stellar kinematics and lensing cross sections. These projections are generating from a Schwarzschild orbit-based dynamical model, fit to the observed stellar kinematics. The result is that simply changing the orientation of the lens galaxy has a substantial impact on the derived cross-section, and may impact subsequent physical inferences. See
 <a href="https://ui.adsabs.harvard.edu/abs/2022MNRAS.512.5298P/abstract">Poci et al. (2022)</a> for further discussion.</div>
 </div>
