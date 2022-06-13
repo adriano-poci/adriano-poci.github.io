@@ -1,1 +1,1 @@
-* Moved lens kinematics
+* Improved lensing
