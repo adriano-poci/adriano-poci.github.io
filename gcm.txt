@@ -1,1 +1,1 @@
-* Updated paper links
+* Fixed typo in `Research Highlights'
