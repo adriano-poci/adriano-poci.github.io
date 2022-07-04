@@ -4,6 +4,8 @@ title: Adriano Poci
 description: I am a post-doctoral researcher in astronomy and astrophysicsat Durham University in the United Kingdom.
 keywords: adriano, poci, galaxy, dynamics, spectroscopy, stellar populations
 ---
+<!-- Header and footer can be edited in _includes/themes/twitter/default.html
+-->
 
 <head>
      <link rel="shortcut icon" type="image/x-icon" href="favicon.ico?">
@@ -11,7 +13,6 @@ keywords: adriano, poci, galaxy, dynamics, spectroscopy, stellar populations
 
 
 I am a post-doctoral research assistant at Durham University. I am working on using orbital dynamical models to measure the distribution of mass in galaxies which are acting as strong lenses. This provides two independent constraints, which can provide insight into the accuracy of these approaches.
-<!-- I am currently undertaking a PhD in astronomy and astrophysics, split between [Maquarie University](https://www.mq.edu.au/) in Sydney, Australia and the European Southern Observatory ([ESO](http://eso.org)) headquarters in Garching, Germany. I am now completing the final year at Macquarie. -->
 
 My research interests are centred around galaxy formation, and in particular the interplay between all observable properties of the stars; namely their motions, compositions, and ages.
 Specifically, I have been developing and analysing dynamical (Schwarzschild) models of external, spatially-resolved galaxies that include treatment of the stellar populations to garner a more complete picture of how and when these galaxies formed in a wholly self-consistent manner.

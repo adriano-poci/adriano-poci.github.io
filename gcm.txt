@@ -1,1 +1,2 @@
-* Fixed typo in `Research Highlights'
+* Updated CV
+* Updated NASA/ADS link
