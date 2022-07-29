@@ -2,12 +2,12 @@ code {
   padding: 0;
   font-size: 90%;
   color: #E7E7E7;
-  background-color: #151515;
+  background-color: #4A4A4A;
   border: 0px solid white;
 }
 
 body {
-    background-color: #0f0f0f;
+    background-color: #2C2C2C;
     color: #E7E7E7
 }
 
@@ -30,9 +30,9 @@ a img {
 
 /* a:hover img {
     color: #013220;
-    background-color: #151515;
+    background-color: #4A4A4A;
     text-decoration: none;
-    border: solid 2px #151515;
+    border: solid 2px #4A4A4A;
 } */
 
 p.center {
@@ -62,19 +62,19 @@ td.right {
 
 
 h1 {
-    color: #D4B996;
+    color: #998A78;
 }
 h2 {
-    color: #FAEBD7;
+    color: #B2A391;
 }
 h3 {
-    color: #F9F6F0;
+    color: #D9D1C8;
 }
 h4 {
-    color: #96D4B9;
+    color: #F5F4F1;
 }
 h5 {
-    color: #D7FAEB;
+    color: #96D4B9;
 }
 h6 {
     color: #876537;
