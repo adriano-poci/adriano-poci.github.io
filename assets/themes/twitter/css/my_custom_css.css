@@ -12,11 +12,11 @@ body {
 }
 
 a code {
-    color: #00ccff;
+    color: #f89406;
 }
 
 a {
-    color: #00ccff;
+    color: #f89406;
 }
 
 a:hover {
@@ -62,22 +62,22 @@ td.right {
 
 
 h1 {
-    color: #fff3b9;
+    color: #FAEBD7;
 }
 h2 {
-    color: #fff3b9;
+    color: #D4B996;
 }
 h3 {
-    color: #fff3b9;
+    color: #AE8D61;
 }
 h4 {
-    color: #fff3b9;
+    color: #876537;
 }
 h5 {
-    color: #fff3b9;
+    color: #D7FAEB;
 }
 h6 {
-    color: #fff3b9;
+    color: #96D4B9;
 }
 
 .danger {
