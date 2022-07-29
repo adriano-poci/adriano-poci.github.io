@@ -1,2 +1,1 @@
-* Updated CV
-* Updated NASA/ADS link
+* Changed hyperlink colour

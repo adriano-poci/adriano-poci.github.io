@@ -4,7 +4,9 @@ title: Adriano Poci
 description: I am a post-doctoral researcher in astronomy and astrophysicsat Durham University in the United Kingdom.
 keywords: adriano, poci, galaxy, dynamics, spectroscopy, stellar populations
 ---
-<!-- Header and footer can be edited in _includes/themes/twitter/default.html
+<!--
+    Header and footer can be edited in _includes/themes/twitter/default.html
+
 -->
 
 <head>
