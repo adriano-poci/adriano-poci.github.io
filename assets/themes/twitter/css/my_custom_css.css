@@ -12,11 +12,11 @@ body {
 }
 
 a code {
-    color: #C70039;
+    color: #F4364C;
 }
 
 a {
-    color: #C70039;
+    color: #F4364C;
 }
 
 a:hover {
@@ -62,13 +62,13 @@ td.right {
 
 
 h1 {
-    color: #FAEBD7;
-}
-h2 {
     color: #D4B996;
 }
+h2 {
+    color: #FAEBD7;
+}
 h3 {
-    color: #AE8D61;
+    color: #F9F6F0;
 }
 h4 {
     color: #96D4B9;
