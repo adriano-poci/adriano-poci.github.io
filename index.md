@@ -6,7 +6,7 @@ keywords: adriano, poci, galaxy, dynamics, spectroscopy, stellar populations
 ---
 <!--
     Header and footer can be edited in _includes/themes/twitter/default.html
-
+    Colours can be edited in assets\themes\twitter\css\my_custom_css.css
 -->
 
 <head>

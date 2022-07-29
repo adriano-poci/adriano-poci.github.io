@@ -12,11 +12,11 @@ body {
 }
 
 a code {
-    color: #f89406;
+    color: #C70039;
 }
 
 a {
-    color: #f89406;
+    color: #C70039;
 }
 
 a:hover {
@@ -71,13 +71,13 @@ h3 {
     color: #AE8D61;
 }
 h4 {
-    color: #876537;
+    color: #96D4B9;
 }
 h5 {
     color: #D7FAEB;
 }
 h6 {
-    color: #96D4B9;
+    color: #876537;
 }
 
 .danger {
