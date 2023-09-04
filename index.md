@@ -100,9 +100,11 @@ Specifically, I have been developing and analysing dynamical (Schwarzschild) mod
 
 <h2><a name="Reads"></a>Reads</h2>
 <div class="contactGrid">
-<div class="grid-row" style="grid-column: 1; grid-row: 1; text-align: left;"><a href="https://figshare.mq.edu.au/articles/thesis/The_assembly_histories_of_nearby_galaxies/23639847">PhD Thesis</a> (MQU)</div>
-<div class="grid-row" style="grid-column: 1; grid-row: 2; text-align: left;"><a href="https://figshare.mq.edu.au/articles/thesis/The_stellar_initial_mass_function_and_total_mass_profiles_of_early-type_galaxies/19435571">Master's Thesis</a> (MQU)</div>
+<div class="grid-row" style="grid-column: 1; grid-row: 1; text-align: left;"><a href="https://figshare.mq.edu.au">PhD Thesis</a> (MQU)</div>
+<!-- /articles/thesis/The_assembly_histories_of_nearby_galaxies/23639847 -->
+<div class="grid-row" style="grid-column: 1; grid-row: 2; text-align: left;"><a href="https://figshare.mq.edu.au">Master's Thesis</a> (MQU)</div>
 </div>
+<!-- /articles/thesis/The_stellar_initial_mass_function_and_total_mass_profiles_of_early-type_galaxies/19435571 -->
 
 <hr style="border:0.75px solid black">
 

@@ -1,2 +1,1 @@
-* Updated theses links
-* Improved text descriptions
+* Fixed paper reference.
