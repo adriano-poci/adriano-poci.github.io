@@ -14,10 +14,8 @@ keywords: adriano, poci, galaxy, dynamics, spectroscopy, stellar populations
 </head>
 
 
-I am a post-doctoral research assistant at Durham University. I am working on using orbital dynamical models to measure the distribution of mass in galaxies which are acting as strong lenses. This provides two independent constraints, which can provide insight into the accuracy of these approaches.
-
-My research interests are centred around galaxy formation, and in particular the interplay between all observable properties of the stars; namely their motions, compositions, and ages.
-Specifically, I have been developing and analysing dynamical (Schwarzschild) models of external, spatially-resolved galaxies that include treatment of the stellar populations to garner a more complete picture of how and when these galaxies formed in a wholly self-consistent manner.
+I am a post-doctoral research associate at Durham University. My research interests are centred around galaxy formation, and in particular the interplay between all observable properties of the stars; namely their motions, chemical compositions, and ages.
+Specifically, I have been developing and analysing dynamical (Schwarzschild) models of galaxies outside our own Milky Way, which uniquely include treatment of the stellar populations to garner a more complete picture of how and when these galaxies formed in a wholly self-consistent manner.
 
 <hr style="border:0.75px solid black">
 
@@ -98,12 +96,12 @@ Specifically, I have been developing and analysing dynamical (Schwarzschild) mod
     <div class="grid-row" style="grid-column: 3; grid-row: 2; text-align: right;">2019-2020</div>
 </div>
 
-<hr style="border:3.0px solid black">
+<hr style="border:0.75px solid black">
 
 <h2><a name="Reads"></a>Reads</h2>
 <div class="contactGrid">
-<div class="grid-row" style="grid-column: 1; grid-row: 1; text-align: left;"><a href="{{ BASE_PATH }}/assets/thesis.pdf" title="PhD Thesis">PhD Thesis</a> (MQU)</div>
-<div class="grid-row" style="grid-column: 1; grid-row: 2; text-align: left;"><a href="http://hdl.handle.net/1959.14/1185049">Master's Thesis</a> (MQU)</div>
+<div class="grid-row" style="grid-column: 1; grid-row: 1; text-align: left;"><a href="https://figshare.mq.edu.au/articles/thesis/The_assembly_histories_of_nearby_galaxies/23639847">PhD Thesis</a> (MQU)</div>
+<div class="grid-row" style="grid-column: 1; grid-row: 2; text-align: left;"><a href="https://figshare.mq.edu.au/articles/thesis/The_stellar_initial_mass_function_and_total_mass_profiles_of_early-type_galaxies/19435571">Master's Thesis</a> (MQU)</div>
 </div>
 
 <hr style="border:0.75px solid black">
@@ -114,14 +112,14 @@ Specifically, I have been developing and analysing dynamical (Schwarzschild) mod
 <div class="resGrid">
     <div class="resPic"><a href="{{ BASE_PATH }}/assets/SNL1_multiProj_1.png" title="lensView"><img src="{{ BASE_PATH }}/assets/SNL1_multiProj_1.png" style="width:300px;" /></a></div>
     <div class="grid-row" style="grid-column: 1; grid-row: 3;"><a href="{{ BASE_PATH }}/assets/lensmods.png" title="lensKin"><img src="{{ BASE_PATH }}/assets/lensmods.png" style="width:300px;" /></a></div>
-    <div class="grid-row" style="grid-column: 2; grid-row: 1; text-align: left;">The effect of orientation on models of strong galaxy-galaxy lensing. The figure shows three orientations (left to right) of a known nearby strong-lens galaxy, SNL-1, and the corresponding stellar kinematics (top) and lensing cross sections (bottom). These projections are generated from a Schwarzschild orbit-based dynamical model, fit to the observed stellar kinematics. The result is that simply changing the orientation of the lens galaxy has a substantial impact on the derived cross-section, and may impact subsequent physical inferences. See
+    <div class="grid-row" style="grid-column: 2; grid-row: 1; text-align: left;">The effect of orientation on models of strong galaxy-galaxy lensing. The figure shows three orientations (left to right) of a known nearby strong-lens galaxy, SNL-1, and the corresponding stellar kinematics (top) and lensing cross sections (bottom). These projections are generated from a Schwarzschild orbit-superposition dynamical model, fit to the observed stellar kinematics. The result is that simply changing the orientation of the lens galaxy has a substantial impact on the derived cross-section, and may impact the physical inferences of large strong-lensing surveys. See
 <a href="https://ui.adsabs.harvard.edu/abs/2022MNRAS.512.5298P/abstract">Poci & Smith (2022)</a> for further discussion.</div>
 </div>
 
 <h3><a name="mfh"></a>Orbital Stellar Initial Mass Function (IMF)</h3>
 <div class="resGrid">
     <div class="resPic"><a href="{{ BASE_PATH }}/assets/circ_imf_xi_3.png" title="xiIMF"><img src="{{ BASE_PATH }}/assets/circ_imf_xi_3.png" style="width:300px;"/></a></div>
-    <div class="grid-row" style="grid-column: 2; grid-row: 1; text-align: left;">The stellar IMF for a small sample of disk galaxies in the Fornax cluster. The correlations show the average stellar IMF (measured as <MATH>&xi;</MATH>) as a function of the orbital circularity for three dynamical components in each galaxy. These correlations show that <ol><li> the outer hot ('stellar halo'-like) component has a markedly lower average IMF in each galaxy, implying a lower relative abundance of low-mass stars </li><li> the high-angular-momentum ('disk'-like) component and the inner hot ('bulge'-like) component share similar IMF in a given galaxy </li><li>and the three galaxies show significant variation between themselves.</li></ol> See
+    <div class="grid-row" style="grid-column: 2; grid-row: 1; text-align: left;">The stellar IMF for a small sample of disk galaxies in the Fornax cluster. The correlations show the average stellar IMF (measured as <MATH>&xi;</MATH>) as a function of the orbital anguler-momentum for three dynamical components in each galaxy. These correlations show that <ol><li> the outer hot ('stellar halo'-like) component has a markedly lower average IMF in each galaxy, implying a lower relative abundance of low-mass stars </li><li> the high-angular-momentum ('disk'-like) component and the inner hot ('bulge'-like) component share similar IMF in a given galaxy </li><li>and the three galaxies show significant variation amongst themselves.</li></ol> See
 <a href="https://ui.adsabs.harvard.edu/abs/2022MNRAS.tmp.1495P/abstract">Poci et al. (2022)</a> for details.</div>
 </div>
 
@@ -142,7 +140,7 @@ Specifically, I have been developing and analysing dynamical (Schwarzschild) mod
 <h3><a name="massMGE"></a>Mass Surface Density Model</h3>
 <div class="resGrid">
     <div class="resPic"><a href="{{ BASE_PATH }}/assets/FCC170-MGEPlot-100.00.png" title="massMGE"><img src="{{ BASE_PATH }}/assets/FCC170-MGEPlot-100.00.png" style="width:300px;" /></a></div>
-    <div class="grid-row" style="grid-column: 2; grid-row: 1; text-align: left;">Modelling the projected mass surface density from the observed luminosity surface density (surface brightness) by taking into account the measured <MATH>2D</MATH> stellar mass-to-light ratio <MATH>(M<sub>&#9733;</sub>/L)</MATH>. <i>Top:</i> the original luminosity surface density model (<i>blue</i>), the resulting mass surface density after scaling by the measured <MATH>M<sub>&#9733;</sub>/L</MATH> (<i>black</i>), and the final mass surface density model (<i>red</i>). <i>Bottom:</i> the resolved <MATH>M<sub>&#9733;</sub>/L</MATH>, normalised by the global average value, <MATH>&#9001;M<sub>&#9733;</sub>/L&#9002;</MATH>. This panel shows the differences in the shape between the mass and luminosity surface densities. It also highlights the regions which are inconsistent with the average value (any red and blue regions). Using the mass surface density model generated in this way ensures that the dynamical model is <i>a priori</i> consistent with the stellar populations. Taken from
+    <div class="grid-row" style="grid-column: 2; grid-row: 1; text-align: left;">Modelling the projected mass surface density from the observed luminosity surface density (surface brightness) by taking into account the measured <MATH>2D</MATH> stellar mass-to-light ratio <MATH>(M<sub>&#9733;</sub>/L)</MATH>. <i>Top:</i> the original luminosity surface density model (<i>blue</i>), the resulting mass surface density after scaling by the measured <MATH>M<sub>&#9733;</sub>/L</MATH> (<i>black</i>), and the final mass surface density model (<i>red</i>). <i>Bottom:</i> the resolved <MATH>M<sub>&#9733;</sub>/L</MATH>, normalised by the global average value, <MATH>&#9001;M<sub>&#9733;</sub>/L&#9002;</MATH>. This panel shows the differences in the shape between the mass and luminosity surface densities. It also highlights the regions which are inconsistent with the average value (any red and blue regions). Using the mass surface density model generated in this way ensures that the dynamical model is <i>a priori</i> consistent with the galaxy's consituent stellar populations. Taken from
 <a href="https://ui.adsabs.harvard.edu/abs/2021A%26A...647A.145P/abstract">Poci et al. (2021)</a>.</div>
 </div>
 
