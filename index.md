@@ -14,6 +14,7 @@ keywords: adriano, poci, galaxy, dynamics, spectroscopy, stellar populations
 </head>
 
 I am a Hintze Fellow in Astrophysics at the University of Oxford in the United Kingdom. My research interests are centred around galaxy formation, and in particular the interplay between all observable properties of the stars; namely their motions, chemical compositions, and ages.
+
 Specifically, I have been developing and analysing dynamical (Schwarzschild) models of galaxies outside our own Milky Way, which uniquely include treatment of the stellar populations to garner a more complete picture of how and when these galaxies formed in a wholly self-consistent manner.
 
 <hr style="border:0.75px solid black">
@@ -87,18 +88,18 @@ Specifically, I have been developing and analysing dynamical (Schwarzschild) mod
         </ul>
     </div>
     <div class="grid-row" style="grid-column: 3; grid-row: 1; text-align: right;">2021-2023</div>
-    <div class="grid-row" style="grid-column: 2; grid-row: 1; text-align: left;">
+    <div class="grid-row" style="grid-column: 2; grid-row: 2; text-align: left;">
         <ul style="list-style: none; padding-left: 0; margin: 0; padding: 0;">
             <li><a href="https://www.mq.edu.au/research/research-centres-groups-and-facilities/secure-planet/centres/research-centre-for-astronomy-astrophysics-and-astrophotonics/our-people">Macquarie University</a></li>
         </ul>
     </div>
-    <div class="grid-row" style="grid-column: 3; grid-row: 1; text-align: right;">2015-2021</div>
-    <div class="grid-row" style="grid-column: 2; grid-row: 2; text-align: left;">
+    <div class="grid-row" style="grid-column: 3; grid-row: 2; text-align: right;">2015-2021</div>
+    <div class="grid-row" style="grid-column: 2; grid-row: 3; text-align: left;">
         <ul style="list-style: none; padding-left: 0; margin: 0; padding: 0;">
             <li><a href="https://www.eso.org/sci/activities/garching/research_area_4.html">ESO</a></li>
         </ul>
     </div>
-    <div class="grid-row" style="grid-column: 3; grid-row: 2; text-align: right;">2019-2020</div>
+    <div class="grid-row" style="grid-column: 3; grid-row: 3; text-align: right;">2019-2020</div>
 </div>
 
 <hr style="border:0.75px solid black">
