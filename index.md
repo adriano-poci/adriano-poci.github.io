@@ -1,7 +1,7 @@
 ---
 layout: frontpage
 title: Adriano Poci
-description: I am a post-doctoral researcher in astronomy and astrophysicsat Durham University in the United Kingdom.
+description: I am a Hintze Fellow in Astrophysics at the University of Oxford in the United Kingdom.
 keywords: adriano, poci, galaxy, dynamics, spectroscopy, stellar populations
 ---
 <!--
@@ -13,8 +13,7 @@ keywords: adriano, poci, galaxy, dynamics, spectroscopy, stellar populations
      <link rel="shortcut icon" type="image/x-icon" href="favicon.ico?">
 </head>
 
-
-I am a post-doctoral research associate at Durham University. My research interests are centred around galaxy formation, and in particular the interplay between all observable properties of the stars; namely their motions, chemical compositions, and ages.
+I am a Hintze Fellow in Astrophysics at the University of Oxford in the United Kingdom. My research interests are centred around galaxy formation, and in particular the interplay between all observable properties of the stars; namely their motions, chemical compositions, and ages.
 Specifically, I have been developing and analysing dynamical (Schwarzschild) models of galaxies outside our own Milky Way, which uniquely include treatment of the stellar populations to garner a more complete picture of how and when these galaxies formed in a wholly self-consistent manner.
 
 <hr style="border:0.75px solid black">
@@ -61,14 +60,14 @@ Specifically, I have been developing and analysing dynamical (Schwarzschild) mod
     <div class="grid-row" style="grid-column: 1; grid-row: 1; text-align: right;">Email</div>
     <div class="grid-row" style="grid-column: 2; grid-row: 1; text-align: left;">
         <ul style="list-style: none; padding-left: 0; margin: 0; padding: 0;">
-            <li><a href="mailto:adriano.poci@durham.ac.uk">adriano.poci@durham.ac.uk</a></li>
+            <li><a href="mailto:adriano.poci@physics.ox.ac.uk">adriano.poci@physics.ox.ac.uk</a></li>
             <!-- <li><a href="mailto:adriano.poci@students.mq.edu.au">adriano.poci@students.mq.edu.au</a></li> -->
         </ul>
     </div>
     <div class="grid-row" style="grid-column: 1; grid-row: 2; text-align: right;">Current Affiliation(s)</div>
     <div class="grid-row" style="grid-column: 2; grid-row: 2; text-align: left;">
         <ul style="list-style: none; padding-left: 0; margin: 0; padding: 0;">
-            <li><a href="https://www.durham.ac.uk/staff/adriano-poci/">Durham University</a></li>
+            <li><a href="https://www.physics.ox.ac.uk/our-people/poci">University of Oxford</a></li>
         </ul>
     </div>
     <div class="grid-row" style="grid-column: 1; grid-row: 3; text-align: right;">ORCiD</div>
@@ -82,6 +81,12 @@ Specifically, I have been developing and analysing dynamical (Schwarzschild) mod
 
 <div class="contactGrid">
     <div class="grid-row" style="grid-column: 1; grid-row: 1; text-align: right;">Past Affiliations</div>
+    <div class="grid-row" style="grid-column: 2; grid-row: 1; text-align: left;">
+        <ul style="list-style: none; padding-left: 0; margin: 0; padding: 0;">
+            <li><a href="https://www.durham.ac.uk/staff/adriano-poci/">Durham University</a></li>
+        </ul>
+    </div>
+    <div class="grid-row" style="grid-column: 3; grid-row: 1; text-align: right;">2021-2023</div>
     <div class="grid-row" style="grid-column: 2; grid-row: 1; text-align: left;">
         <ul style="list-style: none; padding-left: 0; margin: 0; padding: 0;">
             <li><a href="https://www.mq.edu.au/research/research-centres-groups-and-facilities/secure-planet/centres/research-centre-for-astronomy-astrophysics-and-astrophotonics/our-people">Macquarie University</a></li>
